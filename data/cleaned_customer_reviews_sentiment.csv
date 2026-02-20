@@ -1,0 +1,1001 @@
+ReviewID,CustomerID,ProductID,ReviewText,ReviewDate,CleanReview,ReviewLength,Year,Month,Weekday,SentimentScore,SentimentLabel
+1,486,267,So impressed by the quality. This product truly delivers.,2024-05-12,impressed quality product truly delivers,5,2024,5,Sunday,1.0,Positive
+2,810,246,I'm very happy with the performance. It does exactly what I need.,2024-03-07,happy performance exactly need,4,2024,3,Thursday,0.525,Positive
+3,855,291,I regret buying this. The quality is terrible and it stopped working within a week.,2023-11-15,regret buying quality terrible stopped working within week,8,2023,11,Wednesday,-1.0,Negative
+4,524,235,"It serves its purpose, but it's not anything extraordinary.",2024-05-27,serves purpose not anything extraordinary,5,2024,5,Monday,0.3333333333333333,Positive
+5,238,220,Very high-quality product. I would buy it again without hesitation.,2023-09-10,high quality product would buy without hesitation,7,2023,9,Sunday,0.16,Positive
+6,578,263,It's neither great nor terrible. It's just okay.,2024-04-14,neither great terrible okay,4,2024,4,Sunday,0.10000000000000002,Positive
+7,181,261,Everything about this product is great! It works as advertised and more.,2023-12-23,everything product great works advertised,5,2023,12,Saturday,0.8,Positive
+8,262,215,This is the worst product I've bought in a long time. It doesn't do what it's supposed to.,2023-12-16,worst product bought long time not supposed,7,2023,12,Saturday,-0.525,Negative
+9,362,222,I've had nothing but problems with this product. It's not reliable.,2023-09-21,nothing problems product not reliable,5,2023,9,Thursday,0.0,Neutral
+10,563,204,Perfect product for my needs! I can't imagine using anything else now.,2023-07-20,perfect product needs cannot imagine using anything else,8,2023,7,Thursday,1.0,Positive
+11,315,260,I'm extremely disappointed with this product. It doesn't work as promised.,2023-12-10,extremely disappointed product not work promised,6,2023,12,Sunday,-0.75,Negative
+12,651,276,"The product is awful. It doesn't work as it should, and it's frustrating to use.",2023-10-01,product awful not work frustrating use,6,2023,10,Sunday,-0.7,Negative
+13,863,220,It's an okay option if you're looking for something basic.,2024-01-23,okay option looking something basic,5,2024,1,Tuesday,0.25,Positive
+14,648,233,"It's functional, but I'm not blown away by it.",2024-03-28,functional not blown away,4,2024,3,Thursday,0.0,Neutral
+15,682,291,"It's decent, though I expected a little more.",2024-01-12,decent though expected little,4,2024,1,Friday,-0.04027777777777778,Neutral
+16,691,299,"I've used it for a week, and it functions as advertised, but it's not extraordinary.",2023-11-25,used week functions advertised not extraordinary,6,2023,11,Saturday,-0.16666666666666666,Negative
+17,284,245,This is hands down the best purchase I've made this year.,2023-08-19,hands best purchase made year,5,2023,8,Saturday,1.0,Positive
+18,828,249,I am extremely satisfied with my purchase. Worth every penny!,2023-09-20,extremely satisfied purchase worth every penny,6,2023,9,Wednesday,0.4,Positive
+19,622,280,I couldn't be more pleased with this purchase. It works perfectly!,2023-10-27,could not pleased purchase works perfectly,6,2023,10,Friday,0.375,Positive
+20,178,201,I've been using it for a while now and it's performing perfectly.,2024-01-25,using performing perfectly,3,2024,1,Thursday,1.0,Positive
+21,506,288,Absolutely love this product! It's a game-changer.,2024-03-28,absolutely love product game changer,5,2024,3,Thursday,0.04999999999999999,Neutral
+22,197,240,"It's a decent option, but not the best one out there.",2023-10-15,decent option not best one,5,2023,10,Sunday,-0.16666666666666669,Negative
+23,677,258,The product is of poor quality. It doesn't last long and doesn't do what it should.,2023-08-25,product poor quality not last long not,7,2023,8,Friday,-0.15,Negative
+24,346,283,The product is exactly what I was hoping for. I'm very satisfied.,2023-12-27,product exactly hoping satisfied,4,2023,12,Wednesday,0.375,Positive
+25,564,246,Worth every penny! Amazing quality and service.,2023-07-30,worth every penny amazing quality service,6,2023,7,Sunday,0.45000000000000007,Positive
+26,820,213,"It does the job, but I wasn't impressed by its performance.",2023-07-14,job not impressed performance,4,2023,7,Friday,-0.5,Negative
+27,541,205,"The product works, but I've had better experiences with similar products.",2024-03-13,product works better experiences similar products,6,2024,3,Wednesday,0.25,Positive
+28,153,204,Absolutely love this product! It's a game-changer.,2023-10-24,absolutely love product game changer,5,2023,10,Tuesday,0.04999999999999999,Neutral
+29,982,210,I absolutely love this product! It exceeded my expectations in every way.,2023-12-15,absolutely love product exceeded expectations every way,7,2023,12,Friday,0.5,Positive
+30,945,268,This product has made my daily routine so much easier. Highly recommend.,2024-01-26,product made daily routine much easier highly recommend,8,2024,1,Friday,0.12,Positive
+31,386,279,This product is cheaply made and didn't meet my expectations at all.,2024-01-11,product cheaply made not meet expectations,6,2024,1,Thursday,0.4,Positive
+32,661,261,The product functions as expected but isn't remarkable.,2024-05-11,product functions expected not remarkable,5,2024,5,Saturday,-0.2375,Negative
+33,396,298,"It's an okay product, but there are some issues I have with it.",2023-12-12,okay product issues,3,2023,12,Tuesday,0.5,Positive
+34,931,297,This product has saved me so much time and effort. I couldn't be happier.,2024-01-07,product saved much time effort could not happier,8,2024,1,Sunday,0.2,Positive
+35,856,229,I couldn't be more pleased with this purchase. It works perfectly!,2023-07-04,could not pleased purchase works perfectly,6,2023,7,Tuesday,0.375,Positive
+36,464,292,This product does exactly what I wanted it to do. Very pleased.,2024-02-28,product exactly wanted pleased,4,2024,2,Wednesday,0.375,Positive
+37,307,264,I'm very pleased with how quickly it arrived and the quality of the product.,2023-08-26,pleased quickly arrived quality product,5,2023,8,Saturday,0.41666666666666663,Positive
+38,344,240,"It's a decent product, but it doesn't offer the best value for the price.",2024-05-11,decent product not offer best value price,7,2024,5,Saturday,0.5833333333333334,Positive
+39,367,202,This product does exactly what I wanted it to do. Very pleased.,2024-02-04,product exactly wanted pleased,4,2024,2,Sunday,0.375,Positive
+40,206,264,This has been one of the best purchases I've made. Highly recommended!,2024-05-06,one best purchases made highly recommended,6,2024,5,Monday,0.58,Positive
+41,551,261,This product is a game-changer. I'm so glad I bought it.,2023-08-24,product game changer glad bought,5,2023,8,Thursday,0.04999999999999999,Neutral
+42,780,269,I've had nothing but problems with this product. It's not reliable.,2023-09-19,nothing problems product not reliable,5,2023,9,Tuesday,0.0,Neutral
+43,251,270,I've never been this satisfied with a purchase before.,2023-10-21,never satisfied purchase,3,2023,10,Saturday,-0.25,Negative
+44,450,242,"This item is exactly as described, and it works beautifully!",2024-03-13,item exactly described works beautifully,5,2024,3,Wednesday,0.55,Positive
+45,251,245,I regret buying this. The quality is terrible and it stopped working within a week.,2023-10-01,regret buying quality terrible stopped working within week,8,2023,10,Sunday,-1.0,Negative
+46,550,230,Such a fantastic product at a great price. Worth every cent!,2023-12-06,fantastic product great price worth every cent,7,2023,12,Wednesday,0.5000000000000001,Positive
+47,235,206,The quality and performance of this product are top-notch.,2023-06-30,quality performance product top notch,5,2023,6,Friday,0.5,Positive
+48,729,219,"I tried using it, but it's just not functional. Very frustrating.",2024-03-01,tried using not functional frustrating,5,2024,3,Friday,-0.4,Negative
+49,822,204,"It's a basic product. Works, but no wow factor.",2024-01-27,basic product works no wow factor,6,2024,1,Saturday,-0.025,Neutral
+50,426,279,"It's functional, but I'm not convinced it's the best choice for this price.",2024-01-24,functional not convinced best choice price,6,2024,1,Wednesday,1.0,Positive
+51,794,206,I tried it once and it didn't work at all. Wouldn't recommend to anyone.,2024-01-31,tried not work would not recommend anyone,7,2024,1,Wednesday,0.0,Neutral
+52,832,215,The product functions as expected but isn't remarkable.,2024-05-18,product functions expected not remarkable,5,2024,5,Saturday,-0.2375,Negative
+53,740,203,"I'm so dissatisfied. It doesn't work, and the build quality is subpar.",2024-04-12,dissatisfied not work build quality subpar,6,2024,4,Friday,0.0,Neutral
+54,510,225,"This didn't work as expected, and I'm very disappointed with my purchase.",2023-12-26,not work expected disappointed purchase,5,2023,12,Tuesday,-0.425,Negative
+55,306,270,It was a complete waste of money. I would never buy this again.,2024-01-01,complete waste money would never buy,6,2024,1,Monday,-0.05,Neutral
+56,950,241,"I've used it for a week, and it functions as advertised, but it's not extraordinary.",2023-07-23,used week functions advertised not extraordinary,6,2023,7,Sunday,-0.16666666666666666,Negative
+57,102,201,Very poor quality. It's already falling apart after a few weeks of use.,2023-11-20,poor quality already falling apart weeks use,7,2023,11,Monday,-0.4,Negative
+58,560,235,"The customer service was fantastic, and the product arrived on time.",2023-10-08,customer service fantastic product arrived time,6,2023,10,Sunday,0.4,Positive
+59,417,237,"Fantastic quality, and the performance is just amazing. Highly recommend!",2024-01-05,fantastic quality performance amazing highly recommend,6,2024,1,Friday,0.38666666666666666,Positive
+60,590,201,"The product is fine, but it lacks the features I was hoping for.",2023-12-21,product fine lacks features hoping,5,2023,12,Thursday,0.4166666666666667,Positive
+61,225,247,"The product is fine, but it lacks the features I was hoping for.",2024-03-21,product fine lacks features hoping,5,2024,3,Thursday,0.4166666666666667,Positive
+62,993,239,Impressed with the durability and performance of this product.,2023-08-07,impressed durability performance product,4,2023,8,Monday,1.0,Positive
+63,317,207,"It works so well, and it's exactly what I needed for my project.",2023-12-28,works well exactly needed project,5,2023,12,Thursday,0.25,Positive
+64,828,238,"It works fine, but I had expected a bit more for the price.",2023-10-01,works fine expected bit price,5,2023,10,Sunday,0.15833333333333333,Positive
+65,700,249,Wonderful product! The quality and performance are unmatched.,2024-03-25,wonderful product quality performance unmatched,5,2024,3,Monday,1.0,Positive
+66,306,231,I've had a wonderful experience with this product. Definitely recommend it!,2024-03-07,wonderful experience product definitely recommend,5,2024,3,Thursday,0.5,Positive
+67,161,226,I couldn't be happier with my purchase. It's perfect for what I needed.,2023-08-23,could not happier purchase perfect needed,6,2023,8,Wednesday,1.0,Positive
+68,230,281,This product didn't live up to its promises. I'm very disappointed.,2023-11-07,product not live promises disappointed,5,2023,11,Tuesday,-0.40909090909090906,Negative
+69,957,258,"Perfect fit, great design, and works like a charm. Very pleased!",2024-03-28,perfect fit great design works like charm pleased,8,2024,3,Thursday,0.675,Positive
+70,107,278,This product is decent but doesn't stand out in any way.,2024-04-20,product decent not stand way,5,2024,4,Saturday,0.16666666666666666,Positive
+71,688,248,I'm very unhappy with this purchase. It didn't meet my expectations.,2024-06-17,unhappy purchase not meet expectations,5,2024,6,Monday,-0.6,Negative
+72,681,221,Works perfectly! Totally exceeded my expectations in terms of performance.,2024-03-08,works perfectly totally exceeded expectations terms performance,7,2024,3,Friday,0.0,Neutral
+73,307,214,Great product and excellent customer support. Totally worth it!,2023-08-08,great product excellent customer support totally worth,7,2023,8,Tuesday,0.7000000000000001,Positive
+74,596,240,"I love this item. It's sturdy, functional, and well-made.",2024-04-10,love item sturdy functional well made,6,2024,4,Wednesday,0.5,Positive
+75,708,224,"It's an okay product, but there are some issues I have with it.",2023-07-10,okay product issues,3,2023,7,Monday,0.5,Positive
+76,785,204,Very sleek design and works just as advertised. Love it!,2024-06-02,sleek design works advertised love,5,2024,6,Sunday,0.5,Positive
+77,756,229,The product is exactly what I was hoping for. I'm very satisfied.,2023-09-15,product exactly hoping satisfied,4,2023,9,Friday,0.375,Positive
+78,666,283,The quality and performance of this product are top-notch.,2023-08-14,quality performance product top notch,5,2023,8,Monday,0.5,Positive
+79,193,231,This product didn't work as expected. It's unreliable and frustrating.,2024-03-31,product not work expected unreliable frustrating,6,2024,3,Sunday,-0.25,Negative
+80,229,225,I absolutely love this! It's even better than I expected.,2023-06-28,absolutely love even better expected,5,2023,6,Wednesday,0.3,Positive
+81,747,242,Top-notch customer service and a reliable product. Great job!,2024-05-17,top notch customer service reliable product great job,8,2024,5,Friday,0.65,Positive
+82,129,251,I'm amazed by how well it works. Great value for the price!,2023-07-26,amazed well works great value price,6,2023,7,Wednesday,0.8,Positive
+83,141,272,"Not good at all. The quality is very poor, and I'm disappointed.",2023-09-09,not good quality poor disappointed,5,2023,9,Saturday,-0.5,Negative
+84,898,281,"It works fine for now, but I'm not sure about its long-term durability.",2023-10-20,works fine not sure long term durability,7,2023,10,Friday,0.038888888888888896,Neutral
+85,100,220,I've had a wonderful experience with this product. Definitely recommend it!,2024-04-14,wonderful experience product definitely recommend,5,2024,4,Sunday,0.5,Positive
+86,508,206,"I have mixed feelings. It's fine, but I was expecting a bit more.",2023-12-27,mixed feelings fine expecting bit,5,2023,12,Wednesday,0.20833333333333334,Positive
+87,992,200,I regret buying this. The product is ineffective and badly made.,2023-10-05,regret buying product ineffective badly made,6,2023,10,Thursday,-0.6999999999999998,Negative
+88,744,275,Worth every penny! Amazing quality and service.,2024-05-11,worth every penny amazing quality service,6,2024,5,Saturday,0.45000000000000007,Positive
+89,187,284,"The quality is average, and it's okay for the price.",2023-08-28,quality average okay price,4,2023,8,Monday,0.175,Positive
+90,983,243,Great performance and easy to use. I'm very satisfied with this product.,2024-03-23,great performance easy use satisfied product,6,2024,3,Saturday,0.5777777777777778,Positive
+91,571,206,I've never been this satisfied with a purchase before.,2024-06-08,never satisfied purchase,3,2024,6,Saturday,-0.25,Negative
+92,474,278,Very high-quality product. I would buy it again without hesitation.,2023-12-22,high quality product would buy without hesitation,7,2023,12,Friday,0.16,Positive
+93,739,248,This product didn't live up to its promises. I'm very disappointed.,2024-01-20,product not live promises disappointed,5,2024,1,Saturday,-0.40909090909090906,Negative
+94,949,267,Extremely dissatisfied. The product broke down after just one use.,2024-01-12,extremely dissatisfied product broke one use,6,2024,1,Friday,-0.125,Negative
+95,992,229,Best investment I've made in a long time. Very happy with my purchase.,2024-06-08,best investment made long time happy purchase,7,2024,6,Saturday,0.5833333333333334,Positive
+96,256,222,Perfect product for my needs! I can't imagine using anything else now.,2023-07-12,perfect product needs cannot imagine using anything else,8,2023,7,Wednesday,1.0,Positive
+97,952,270,"Great design, easy to use, and it works wonderfully. Highly recommend!",2024-04-07,great design easy use works wonderfully highly recommend,8,2024,4,Sunday,0.46444444444444444,Positive
+98,847,296,"It's a decent product, but it doesn't offer the best value for the price.",2023-09-26,decent product not offer best value price,7,2023,9,Tuesday,0.5833333333333334,Positive
+99,808,284,This product has exceeded all my expectations. Very satisfied.,2024-06-07,product exceeded expectations satisfied,4,2024,6,Friday,0.5,Positive
+100,843,296,"The customer service was fantastic, and the product arrived on time.",2023-12-15,customer service fantastic product arrived time,6,2023,12,Friday,0.4,Positive
+101,470,258,"It does the job, but I wasn't impressed by its performance.",2024-05-05,job not impressed performance,4,2024,5,Sunday,-0.5,Negative
+102,194,292,This product does exactly what I wanted it to do. Very pleased.,2024-05-02,product exactly wanted pleased,4,2024,5,Thursday,0.375,Positive
+103,289,209,Impressed with the durability and performance of this product.,2024-04-03,impressed durability performance product,4,2024,4,Wednesday,1.0,Positive
+104,366,246,"The product is decent, but I've come across better quality.",2024-02-16,product decent come across better quality,6,2024,2,Friday,0.3333333333333333,Positive
+105,302,235,Everything about this product is great! It works as advertised and more.,2023-07-22,everything product great works advertised,5,2023,7,Saturday,0.8,Positive
+106,591,205,Works perfectly! Totally exceeded my expectations in terms of performance.,2024-03-19,works perfectly totally exceeded expectations terms performance,7,2024,3,Tuesday,0.0,Neutral
+107,967,254,I'm very pleased with how quickly it arrived and the quality of the product.,2024-01-21,pleased quickly arrived quality product,5,2024,1,Sunday,0.41666666666666663,Positive
+108,419,239,"I've been using this for a few weeks now, and it works flawlessly.",2023-08-22,using weeks works flawlessly,4,2023,8,Tuesday,1.0,Positive
+109,572,278,This has been one of the best purchases I've made. Highly recommended!,2023-07-25,one best purchases made highly recommended,6,2023,7,Tuesday,0.58,Positive
+110,130,283,"It's okay for basic use, but I wouldn't recommend it for anything more.",2023-12-20,okay basic use would not recommend anything,7,2023,12,Wednesday,0.25,Positive
+111,169,204,This product is decent but doesn't stand out in any way.,2024-01-12,product decent not stand way,5,2024,1,Friday,0.16666666666666666,Positive
+112,791,244,The product is exactly what I was hoping for. I'm very satisfied.,2023-12-13,product exactly hoping satisfied,4,2023,12,Wednesday,0.375,Positive
+113,963,296,Everything about this product is perfect. So happy with it!,2024-04-12,everything product perfect happy,4,2024,4,Friday,0.9,Positive
+114,283,279,This has been one of the best purchases I've made. Highly recommended!,2023-08-16,one best purchases made highly recommended,6,2023,8,Wednesday,0.58,Positive
+115,253,245,"The product arrived on time, and I couldn't be happier with it.",2024-05-31,product arrived time could not happier,6,2024,5,Friday,0.0,Neutral
+116,383,260,The quality is outstanding. I'm extremely impressed.,2024-03-11,quality outstanding extremely impressed,4,2024,3,Monday,0.75,Positive
+117,676,225,I absolutely love this product! It exceeded my expectations in every way.,2024-06-17,absolutely love product exceeded expectations every way,7,2024,6,Monday,0.5,Positive
+118,615,225,I regret buying this. The quality is terrible and it stopped working within a week.,2023-10-08,regret buying quality terrible stopped working within week,8,2023,10,Sunday,-1.0,Negative
+119,434,253,"Excellent quality, great design, and super easy to use.",2024-03-16,excellent quality great design super easy use,7,2024,3,Saturday,0.6416666666666666,Positive
+120,433,212,"It's decent for the price, but it's not high quality.",2024-02-15,decent price not high quality,5,2024,2,Thursday,0.04333333333333333,Neutral
+121,316,279,I'm amazed by how well it works. Great value for the price!,2024-03-14,amazed well works great value price,6,2024,3,Thursday,0.8,Positive
+122,529,221,I regret buying this. The quality is terrible and it stopped working within a week.,2024-04-13,regret buying quality terrible stopped working within week,8,2024,4,Saturday,-1.0,Negative
+123,574,234,Worth every penny! Amazing quality and service.,2024-04-17,worth every penny amazing quality service,6,2024,4,Wednesday,0.45000000000000007,Positive
+124,795,261,"It works as advertised, but it's not particularly impressive.",2023-10-31,works advertised not particularly impressive,5,2023,10,Tuesday,-0.5,Negative
+125,235,222,"The product does its job, but I expected something more impressive.",2024-04-24,product job expected something impressive,5,2024,4,Wednesday,0.45,Positive
+126,503,273,It's sufficient for basic needs but could be better.,2023-09-01,sufficient basic needs could better,5,2023,9,Friday,0.25,Positive
+127,185,295,"It's not great, but it's not bad either. It's somewhere in between.",2024-05-30,not great not bad either somewhere,6,2024,5,Thursday,-0.02500000000000005,Neutral
+128,120,210,The product is exactly what I was hoping for. I'm very satisfied.,2024-06-25,product exactly hoping satisfied,4,2024,6,Tuesday,0.375,Positive
+129,759,263,Worth every penny! Amazing quality and service.,2023-08-23,worth every penny amazing quality service,6,2023,8,Wednesday,0.45000000000000007,Positive
+130,150,249,Wonderful product! The quality and performance are unmatched.,2023-10-02,wonderful product quality performance unmatched,5,2023,10,Monday,1.0,Positive
+131,465,217,The product is exactly what I was hoping for. I'm very satisfied.,2024-03-15,product exactly hoping satisfied,4,2024,3,Friday,0.375,Positive
+132,898,295,"It serves its purpose, but it's not anything extraordinary.",2023-12-16,serves purpose not anything extraordinary,5,2023,12,Saturday,0.3333333333333333,Positive
+133,137,238,I can't believe I wasted my money on this. It's not worth it.,2023-07-07,cannot believe wasted money not worth,6,2023,7,Friday,-0.175,Negative
+134,571,220,"Fantastic quality, and the performance is just amazing. Highly recommend!",2024-05-16,fantastic quality performance amazing highly recommend,6,2024,5,Thursday,0.38666666666666666,Positive
+135,355,241,"The product is good for the price, but there are some minor flaws.",2023-07-21,product good price minor flaws,5,2023,7,Friday,0.32499999999999996,Positive
+136,560,293,I was expecting more from this product. It doesn't perform well.,2023-09-26,expecting product not perform well,5,2023,9,Tuesday,0.0,Neutral
+137,349,247,Great performance and easy to use. I'm very satisfied with this product.,2023-07-15,great performance easy use satisfied product,6,2023,7,Saturday,0.5777777777777778,Positive
+138,317,294,"Fantastic quality, and the performance is just amazing. Highly recommend!",2023-10-11,fantastic quality performance amazing highly recommend,6,2023,10,Wednesday,0.38666666666666666,Positive
+139,375,251,"I'm satisfied, but I'm not overly enthusiastic about this product.",2023-10-06,satisfied not overly enthusiastic product,5,2023,10,Friday,0.55,Positive
+140,242,250,"The product is okay, just nothing special to make it stand out.",2023-09-11,product okay nothing special make stand,6,2023,9,Monday,0.4285714285714286,Positive
+141,281,266,"This item is exactly as described, and it works beautifully!",2023-08-02,item exactly described works beautifully,5,2023,8,Wednesday,0.55,Positive
+142,804,215,"Not good at all. The quality is very poor, and I'm disappointed.",2024-06-01,not good quality poor disappointed,5,2024,6,Saturday,-0.5,Negative
+143,723,271,Best investment I've made in a long time. Very happy with my purchase.,2023-10-01,best investment made long time happy purchase,7,2023,10,Sunday,0.5833333333333334,Positive
+144,141,262,I'm very happy with the performance. It does exactly what I need.,2023-10-15,happy performance exactly need,4,2023,10,Sunday,0.525,Positive
+145,492,292,I absolutely love this! It's even better than I expected.,2024-06-03,absolutely love even better expected,5,2024,6,Monday,0.3,Positive
+146,261,225,I'm very happy with the performance. It does exactly what I need.,2023-10-18,happy performance exactly need,4,2023,10,Wednesday,0.525,Positive
+147,317,230,Top-notch customer service and a reliable product. Great job!,2023-09-14,top notch customer service reliable product great job,8,2023,9,Thursday,0.65,Positive
+148,487,262,The product does not match the description. Avoid this seller.,2024-02-24,product not match description avoid seller,6,2024,2,Saturday,0.0,Neutral
+149,907,275,"It's a standard product, nothing to rave about.",2023-07-21,standard product nothing rave,4,2023,7,Friday,0.0,Neutral
+150,566,218,"I tried using it, but it's just not functional. Very frustrating.",2024-01-21,tried using not functional frustrating,5,2024,1,Sunday,-0.4,Negative
+151,312,282,The best product I've used in a long time. Kudos to the team!,2023-08-08,best product used long time kudos team,7,2023,8,Tuesday,0.475,Positive
+152,161,216,"It's okay for basic use, but I wouldn't recommend it for anything more.",2023-07-09,okay basic use would not recommend anything,7,2023,7,Sunday,0.25,Positive
+153,616,226,Top-notch customer service and a reliable product. Great job!,2024-03-14,top notch customer service reliable product great job,8,2024,3,Thursday,0.65,Positive
+154,843,207,I am extremely satisfied with my purchase. Worth every penny!,2024-01-26,extremely satisfied purchase worth every penny,6,2024,1,Friday,0.4,Positive
+155,564,279,I absolutely love this product! It exceeded my expectations in every way.,2024-02-20,absolutely love product exceeded expectations every way,7,2024,2,Tuesday,0.5,Positive
+156,715,216,I'm really impressed with the quality and the results. 10/10!,2024-02-02,really impressed quality results,4,2024,2,Friday,1.0,Positive
+157,875,253,Best investment I've made in a long time. Very happy with my purchase.,2024-01-19,best investment made long time happy purchase,7,2024,1,Friday,0.5833333333333334,Positive
+158,331,224,Perfect product for my needs! I can't imagine using anything else now.,2023-11-06,perfect product needs cannot imagine using anything else,8,2023,11,Monday,1.0,Positive
+159,493,287,The product is okay but nothing too special.,2023-07-13,product okay nothing special,4,2023,7,Thursday,0.4285714285714286,Positive
+160,673,238,"It's not bad, but I wouldn't say it's great either.",2023-10-04,not bad would not say great either,7,2023,10,Wednesday,0.575,Positive
+161,939,299,The item I received was completely different from what was shown online.,2024-01-18,item received completely different shown online,6,2024,1,Thursday,0.0,Neutral
+162,168,285,"It works so well, and it's exactly what I needed for my project.",2024-01-28,works well exactly needed project,5,2024,1,Sunday,0.25,Positive
+163,653,231,"It's a standard product, nothing to rave about.",2024-06-11,standard product nothing rave,4,2024,6,Tuesday,0.0,Neutral
+164,266,223,Such a fantastic product at a great price. Worth every cent!,2023-11-20,fantastic product great price worth every cent,7,2023,11,Monday,0.5000000000000001,Positive
+165,929,274,Overpriced for what it offers. Very unhappy with my purchase.,2024-02-07,overpriced offers unhappy purchase,4,2024,2,Wednesday,-0.25,Negative
+166,889,270,"It's fine for casual use, but I wouldn't use it for anything heavy.",2023-10-18,fine casual use would not use anything heavy,8,2023,10,Wednesday,-0.09444444444444448,Neutral
+167,119,269,"It serves its purpose, but it's not anything extraordinary.",2024-06-08,serves purpose not anything extraordinary,5,2024,6,Saturday,0.3333333333333333,Positive
+168,488,235,"The product didn't last long, and the performance was very underwhelming.",2023-10-09,product not last long performance underwhelming,6,2023,10,Monday,-0.025,Neutral
+169,881,252,"The product is good for the price, but there are some minor flaws.",2024-05-11,product good price minor flaws,5,2024,5,Saturday,0.32499999999999996,Positive
+170,261,246,"I've been using this for a few weeks now, and it works flawlessly.",2024-01-20,using weeks works flawlessly,4,2024,1,Saturday,1.0,Positive
+171,456,230,I've never been this satisfied with a purchase before.,2024-03-07,never satisfied purchase,3,2024,3,Thursday,-0.25,Negative
+172,690,273,I'm amazed by how well it works. Great value for the price!,2024-06-09,amazed well works great value price,6,2024,6,Sunday,0.8,Positive
+173,804,239,Works perfectly! Totally exceeded my expectations in terms of performance.,2023-10-21,works perfectly totally exceeded expectations terms performance,7,2023,10,Saturday,0.0,Neutral
+174,281,222,"I've used it for a week, and it functions as advertised, but it's not extraordinary.",2024-05-17,used week functions advertised not extraordinary,6,2024,5,Friday,-0.16666666666666666,Negative
+175,914,217,"I've used it a few times and it works, but it's not impressive.",2023-07-13,used times works not impressive,5,2023,7,Thursday,-0.5,Negative
+176,945,259,The best product I've used in a long time. Kudos to the team!,2023-12-25,best product used long time kudos team,7,2023,12,Monday,0.475,Positive
+177,554,218,"It's good enough to keep, but I'm not excited about it.",2023-06-30,good enough keep not excited,5,2023,6,Friday,0.1708333333333333,Positive
+178,650,247,I've had a wonderful experience with this product. Definitely recommend it!,2024-04-08,wonderful experience product definitely recommend,5,2024,4,Monday,0.5,Positive
+179,567,224,"The product is decent, but I've come across better quality.",2023-11-25,product decent come across better quality,6,2023,11,Saturday,0.3333333333333333,Positive
+180,848,279,This product didn't live up to its promises. I'm very disappointed.,2023-12-27,product not live promises disappointed,5,2023,12,Wednesday,-0.40909090909090906,Negative
+181,427,258,Everything about this product is great! It works as advertised and more.,2024-04-19,everything product great works advertised,5,2024,4,Friday,0.8,Positive
+182,514,299,"It works, but it doesn't feel like a high-end product.",2024-06-08,works not feel like high end product,7,2024,6,Saturday,0.16,Positive
+183,315,242,Very sleek design and works just as advertised. Love it!,2024-05-21,sleek design works advertised love,5,2024,5,Tuesday,0.5,Positive
+184,417,287,This product didn't live up to its promises. I'm very disappointed.,2023-07-02,product not live promises disappointed,5,2023,7,Sunday,-0.40909090909090906,Negative
+185,325,283,This product does exactly what I wanted it to do. Very pleased.,2024-04-21,product exactly wanted pleased,4,2024,4,Sunday,0.375,Positive
+186,308,223,The quality is outstanding. I'm extremely impressed.,2024-02-08,quality outstanding extremely impressed,4,2024,2,Thursday,0.75,Positive
+187,160,260,The quality is outstanding. I'm extremely impressed.,2024-06-15,quality outstanding extremely impressed,4,2024,6,Saturday,0.75,Positive
+188,629,262,Great product and excellent customer support. Totally worth it!,2024-03-08,great product excellent customer support totally worth,7,2024,3,Friday,0.7000000000000001,Positive
+189,569,257,Impressed with the durability and performance of this product.,2023-12-03,impressed durability performance product,4,2023,12,Sunday,1.0,Positive
+190,691,216,It was a complete waste of money. I would never buy this again.,2023-10-23,complete waste money would never buy,6,2023,10,Monday,-0.05,Neutral
+191,153,214,"Very poor product. It broke down after minimal use, and I'm not happy.",2023-11-18,poor product broke minimal use not happy,7,2023,11,Saturday,-0.3,Negative
+192,423,284,Perfect product for my needs! I can't imagine using anything else now.,2023-08-21,perfect product needs cannot imagine using anything else,8,2023,8,Monday,1.0,Positive
+193,599,250,"Great design, easy to use, and it works wonderfully. Highly recommend!",2023-09-02,great design easy use works wonderfully highly recommend,8,2023,9,Saturday,0.46444444444444444,Positive
+194,941,275,Worth every penny! Amazing quality and service.,2024-02-21,worth every penny amazing quality service,6,2024,2,Wednesday,0.45000000000000007,Positive
+195,891,274,Very disappointed with my purchase. The product is useless.,2024-05-08,disappointed purchase product useless,4,2024,5,Wednesday,-0.625,Negative
+196,718,294,It's easy to use and super efficient. I'm so glad I bought it.,2023-09-10,easy use super efficient glad bought,6,2023,9,Sunday,0.4222222222222222,Positive
+197,555,226,"It's a decent option, but not the best one out there.",2024-03-25,decent option not best one,5,2024,3,Monday,-0.16666666666666669,Negative
+198,415,289,"It works so well, and it's exactly what I needed for my project.",2023-07-18,works well exactly needed project,5,2023,7,Tuesday,0.25,Positive
+199,860,236,Everything about this product is perfect. So happy with it!,2024-05-03,everything product perfect happy,4,2024,5,Friday,0.9,Positive
+200,963,273,Everything about this product is great! It works as advertised and more.,2023-08-27,everything product great works advertised,5,2023,8,Sunday,0.8,Positive
+201,370,208,Not worth the investment. Very disappointing experience.,2024-01-05,not worth investment disappointing experience,5,2024,1,Friday,-0.375,Negative
+202,544,265,This is exactly what I was looking for. I'm so glad I bought it!,2024-06-24,exactly looking glad bought,4,2024,6,Monday,0.375,Positive
+203,261,252,I was expecting more from this product. It doesn't perform well.,2024-01-30,expecting product not perform well,5,2024,1,Tuesday,0.0,Neutral
+204,491,223,Excellent quality and fast shipping. Very happy with it.,2024-04-14,excellent quality fast shipping happy,5,2024,4,Sunday,0.6666666666666666,Positive
+205,847,286,"I love this item. It's sturdy, functional, and well-made.",2024-01-31,love item sturdy functional well made,6,2024,1,Wednesday,0.5,Positive
+206,312,200,Great product and excellent customer support. Totally worth it!,2023-07-18,great product excellent customer support totally worth,7,2023,7,Tuesday,0.7000000000000001,Positive
+207,446,238,Very high-quality product. I would buy it again without hesitation.,2024-05-01,high quality product would buy without hesitation,7,2024,5,Wednesday,0.16,Positive
+208,644,208,I couldn't be more pleased with this purchase. It works perfectly!,2024-03-10,could not pleased purchase works perfectly,6,2024,3,Sunday,0.375,Positive
+209,538,265,The quality is outstanding. I'm extremely impressed.,2024-04-12,quality outstanding extremely impressed,4,2024,4,Friday,0.75,Positive
+210,684,288,"It's neither good nor bad. It works, but nothing to rave about.",2024-05-21,neither good bad works nothing rave,6,2024,5,Tuesday,5.551115123125783e-17,Neutral
+211,949,253,"It's an okay product, but there are some issues I have with it.",2023-08-04,okay product issues,3,2023,8,Friday,0.5,Positive
+212,687,231,I'm very happy with the performance. It does exactly what I need.,2023-12-03,happy performance exactly need,4,2023,12,Sunday,0.525,Positive
+213,576,282,"The product functions well, but I feel it could be improved in some areas.",2024-06-16,product functions well feel could improved areas,7,2024,6,Sunday,0.0,Neutral
+214,237,201,"I tried to get support, but they never helped. The product is just bad.",2024-01-19,tried get support never helped product bad,7,2024,1,Friday,-0.6999999999999998,Negative
+215,703,245,"It's a decent product, but it doesn't offer the best value for the price.",2024-02-21,decent product not offer best value price,7,2024,2,Wednesday,0.5833333333333334,Positive
+216,568,271,"It's an okay product, but there are some issues I have with it.",2023-07-04,okay product issues,3,2023,7,Tuesday,0.5,Positive
+217,801,201,"The customer service was fantastic, and the product arrived on time.",2023-11-29,customer service fantastic product arrived time,6,2023,11,Wednesday,0.4,Positive
+218,392,234,It's easy to use and super efficient. I'm so glad I bought it.,2023-08-03,easy use super efficient glad bought,6,2023,8,Thursday,0.4222222222222222,Positive
+219,395,260,"It serves its purpose, but it's not anything extraordinary.",2023-10-10,serves purpose not anything extraordinary,5,2023,10,Tuesday,0.3333333333333333,Positive
+220,288,231,Works perfectly! Totally exceeded my expectations in terms of performance.,2024-06-24,works perfectly totally exceeded expectations terms performance,7,2024,6,Monday,0.0,Neutral
+221,240,206,"The product arrived on time, and I couldn't be happier with it.",2023-08-16,product arrived time could not happier,6,2023,8,Wednesday,0.0,Neutral
+222,585,217,I've had a wonderful experience with this product. Definitely recommend it!,2023-11-26,wonderful experience product definitely recommend,5,2023,11,Sunday,0.5,Positive
+223,968,225,"It works fine for what it's meant to do, but there's nothing exciting about it.",2023-10-22,works fine meant nothing exciting,5,2023,10,Sunday,0.35833333333333334,Positive
+224,226,214,I've had a wonderful experience with this product. Definitely recommend it!,2023-10-19,wonderful experience product definitely recommend,5,2023,10,Thursday,0.5,Positive
+225,182,238,"I was expecting something better, but this product is just average.",2023-12-17,expecting something better product average,5,2023,12,Sunday,0.175,Positive
+226,308,255,"The customer service was fantastic, and the product arrived on time.",2024-04-03,customer service fantastic product arrived time,6,2024,4,Wednesday,0.4,Positive
+227,714,285,This product has exceeded all my expectations. I'm thrilled with it.,2023-12-19,product exceeded expectations thrilled,4,2023,12,Tuesday,0.6,Positive
+228,160,249,The product is just fine. Doesn't stand out in any way.,2023-11-24,product fine not stand way,5,2023,11,Friday,0.4166666666666667,Positive
+229,219,265,"I have no complaints, but I don't have any praise for it either.",2023-08-18,no complaints not praise either,5,2023,8,Friday,0.0,Neutral
+230,328,249,"The product arrived on time, but it's just alright.",2023-09-18,product arrived time alright,4,2023,9,Monday,0.0,Neutral
+231,503,214,This product is absolutely amazing. I'm recommending it to all my friends.,2024-03-25,product absolutely amazing recommending friends,5,2024,3,Monday,0.6000000000000001,Positive
+232,239,298,This has been one of the best purchases I've made. Highly recommended!,2023-07-09,one best purchases made highly recommended,6,2023,7,Sunday,0.58,Positive
+233,901,291,Great performance and easy to use. I'm very satisfied with this product.,2024-06-19,great performance easy use satisfied product,6,2024,6,Wednesday,0.5777777777777778,Positive
+234,606,256,I am extremely satisfied with my purchase. Worth every penny!,2023-07-30,extremely satisfied purchase worth every penny,6,2023,7,Sunday,0.4,Positive
+235,727,252,"It's not bad, just didn't live up to the expectations I had.",2023-11-13,not bad not live expectations,5,2023,11,Monday,0.14090909090909087,Positive
+236,493,283,The quality is outstanding. I'm extremely impressed.,2023-09-19,quality outstanding extremely impressed,4,2023,9,Tuesday,0.75,Positive
+237,560,226,I've been using it for a while now and it's performing perfectly.,2023-07-26,using performing perfectly,3,2023,7,Wednesday,1.0,Positive
+238,380,253,This product has exceeded all my expectations. I'm thrilled with it.,2023-12-07,product exceeded expectations thrilled,4,2023,12,Thursday,0.6,Positive
+239,300,280,Not worth the investment. Very disappointing experience.,2023-08-16,not worth investment disappointing experience,5,2023,8,Wednesday,-0.375,Negative
+240,703,222,This is exactly what I was looking for. I'm so glad I bought it!,2024-01-13,exactly looking glad bought,4,2024,1,Saturday,0.375,Positive
+241,604,215,"I don't hate it, but I don't love it either. It's just average.",2023-12-01,not hate not love either average,6,2023,12,Friday,9.25185853854297e-18,Neutral
+242,689,225,This product has exceeded all my expectations. Very satisfied.,2023-07-14,product exceeded expectations satisfied,4,2023,7,Friday,0.5,Positive
+243,210,224,"It works, but it doesn't feel like a high-end product.",2024-01-15,works not feel like high end product,7,2024,1,Monday,0.16,Positive
+244,401,219,"I tried to get support, but they never helped. The product is just bad.",2024-02-23,tried get support never helped product bad,7,2024,2,Friday,-0.6999999999999998,Negative
+245,989,295,"It's functional, but I don't feel strongly about it either way.",2024-01-20,functional not feel strongly either way,6,2024,1,Saturday,0.4333333333333333,Positive
+246,789,241,Perfect fit for my needs. Will definitely order again.,2024-06-21,perfect fit needs definitely order,5,2024,6,Friday,0.4666666666666666,Positive
+247,308,259,"The customer service was fantastic, and the product arrived on time.",2023-10-26,customer service fantastic product arrived time,6,2023,10,Thursday,0.4,Positive
+248,616,231,I've never been this satisfied with a purchase before.,2023-10-12,never satisfied purchase,3,2023,10,Thursday,-0.25,Negative
+249,860,285,I'm amazed by how well it works. Great value for the price!,2023-08-29,amazed well works great value price,6,2023,8,Tuesday,0.8,Positive
+250,280,275,I regret buying this. The quality is terrible and it stopped working within a week.,2024-02-20,regret buying quality terrible stopped working within week,8,2024,2,Tuesday,-1.0,Negative
+251,711,212,"It does its job, but I wouldn't say it's a standout product.",2024-06-16,job would not say standout product,6,2024,6,Sunday,0.0,Neutral
+252,804,241,This product is decent but doesn't stand out in any way.,2023-07-26,product decent not stand way,5,2023,7,Wednesday,0.16666666666666666,Positive
+253,466,218,The quality and performance of this product are top-notch.,2023-11-14,quality performance product top notch,5,2023,11,Tuesday,0.5,Positive
+254,396,217,I'm very pleased with how quickly it arrived and the quality of the product.,2023-07-30,pleased quickly arrived quality product,5,2023,7,Sunday,0.41666666666666663,Positive
+255,583,231,"It works, but it doesn't feel like a high-end product.",2024-05-17,works not feel like high end product,7,2024,5,Friday,0.16,Positive
+256,740,260,"The product is awful. It doesn't work as it should, and it's frustrating to use.",2024-03-14,product awful not work frustrating use,6,2024,3,Thursday,-0.7,Negative
+257,630,216,This product does exactly what I wanted it to do. Very pleased.,2023-08-05,product exactly wanted pleased,4,2023,8,Saturday,0.375,Positive
+258,629,252,Very poor quality. It's already falling apart after a few weeks of use.,2024-04-18,poor quality already falling apart weeks use,7,2024,4,Thursday,-0.4,Negative
+259,249,205,I've had better products for less money. This one is definitely not worth it.,2023-10-13,better products less money one definitely not worth,8,2023,10,Friday,0.06111111111111112,Neutral
+260,486,225,"I have mixed feelings. It's fine, but I was expecting a bit more.",2023-06-27,mixed feelings fine expecting bit,5,2023,6,Tuesday,0.20833333333333334,Positive
+261,257,229,This product is absolutely amazing. I'm recommending it to all my friends.,2023-08-07,product absolutely amazing recommending friends,5,2023,8,Monday,0.6000000000000001,Positive
+262,342,277,"The product works, but I've had better experiences with similar products.",2024-04-22,product works better experiences similar products,6,2024,4,Monday,0.25,Positive
+263,426,280,"I have no complaints, but I don't have any praise for it either.",2024-06-25,no complaints not praise either,5,2024,6,Tuesday,0.0,Neutral
+264,910,224,I absolutely love this! It's even better than I expected.,2023-10-04,absolutely love even better expected,5,2023,10,Wednesday,0.3,Positive
+265,122,233,I've never been this satisfied with a purchase before.,2023-10-02,never satisfied purchase,3,2023,10,Monday,-0.25,Negative
+266,791,241,Top-notch customer service and a reliable product. Great job!,2023-07-28,top notch customer service reliable product great job,8,2023,7,Friday,0.65,Positive
+267,312,219,I'm amazed by how well it works. Great value for the price!,2024-04-30,amazed well works great value price,6,2024,4,Tuesday,0.8,Positive
+268,701,285,"It's a decent product for the price, though there are better alternatives.",2024-05-10,decent product price though better alternatives,6,2024,5,Friday,0.3333333333333333,Positive
+269,954,230,The quality and performance of this product are top-notch.,2024-06-03,quality performance product top notch,5,2024,6,Monday,0.5,Positive
+270,853,202,Wonderful product! The quality and performance are unmatched.,2024-01-04,wonderful product quality performance unmatched,5,2024,1,Thursday,1.0,Positive
+271,107,240,"I love this item. It's sturdy, functional, and well-made.",2024-04-29,love item sturdy functional well made,6,2024,4,Monday,0.5,Positive
+272,883,228,"It's a standard product, nothing to rave about.",2023-11-27,standard product nothing rave,4,2023,11,Monday,0.0,Neutral
+273,814,270,"It's fine, but it doesn't exceed the expectations set by the description.",2024-02-13,fine not exceed expectations set description,6,2024,2,Tuesday,0.4166666666666667,Positive
+274,603,241,Top-notch customer service and a reliable product. Great job!,2023-06-26,top notch customer service reliable product great job,8,2023,6,Monday,0.65,Positive
+275,297,211,The product is exactly what I was hoping for. I'm very satisfied.,2023-09-28,product exactly hoping satisfied,4,2023,9,Thursday,0.375,Positive
+276,434,239,It was a complete waste of money. I would never buy this again.,2023-10-06,complete waste money would never buy,6,2023,10,Friday,-0.05,Neutral
+277,929,222,"It's neither good nor bad. It works, but nothing to rave about.",2024-04-10,neither good bad works nothing rave,6,2024,4,Wednesday,5.551115123125783e-17,Neutral
+278,818,282,I can't believe I wasted my money on this. It's not worth it.,2024-02-29,cannot believe wasted money not worth,6,2024,2,Thursday,-0.175,Negative
+279,455,294,This product is decent but doesn't stand out in any way.,2023-11-03,product decent not stand way,5,2023,11,Friday,0.16666666666666666,Positive
+280,153,245,I'm extremely disappointed with this product. It doesn't work as promised.,2024-02-11,extremely disappointed product not work promised,6,2024,2,Sunday,-0.75,Negative
+281,621,246,This product has made my daily routine so much easier. Highly recommend.,2023-06-30,product made daily routine much easier highly recommend,8,2023,6,Friday,0.12,Positive
+282,680,242,I'm really impressed with the quality and the results. 10/10!,2023-12-22,really impressed quality results,4,2023,12,Friday,1.0,Positive
+283,383,275,It stopped working almost immediately. Waste of money.,2023-08-14,stopped working almost immediately waste money,6,2023,8,Monday,-0.2,Negative
+284,591,254,"It works so well, and it's exactly what I needed for my project.",2024-02-24,works well exactly needed project,5,2024,2,Saturday,0.25,Positive
+285,308,237,I absolutely love this product! It exceeded my expectations in every way.,2024-04-20,absolutely love product exceeded expectations every way,7,2024,4,Saturday,0.5,Positive
+286,380,224,I'm extremely disappointed with this product. It doesn't work as promised.,2024-01-26,extremely disappointed product not work promised,6,2024,1,Friday,-0.75,Negative
+287,504,262,"It's a standard product, nothing to rave about.",2024-04-08,standard product nothing rave,4,2024,4,Monday,0.0,Neutral
+288,432,292,This product is decent but doesn't stand out in any way.,2023-10-25,product decent not stand way,5,2023,10,Wednesday,0.16666666666666666,Positive
+289,854,256,So impressed by the quality. This product truly delivers.,2024-02-26,impressed quality product truly delivers,5,2024,2,Monday,1.0,Positive
+290,330,213,"Does the job, but I wouldn't call it extraordinary.",2024-04-27,job would not call extraordinary,5,2024,4,Saturday,0.3333333333333333,Positive
+291,969,243,It's easy to use and super efficient. I'm so glad I bought it.,2024-03-26,easy use super efficient glad bought,6,2024,3,Tuesday,0.4222222222222222,Positive
+292,518,216,"It's not a bad product, but I think I could find something better.",2023-12-29,not bad product think could find something better,8,2023,12,Friday,0.42499999999999993,Positive
+293,805,223,Impressed with the durability and performance of this product.,2024-03-17,impressed durability performance product,4,2024,3,Sunday,1.0,Positive
+294,555,281,"The product didn't last long, and the performance was very underwhelming.",2024-01-29,product not last long performance underwhelming,6,2024,1,Monday,-0.025,Neutral
+295,604,224,I'm very pleased with how quickly it arrived and the quality of the product.,2024-05-27,pleased quickly arrived quality product,5,2024,5,Monday,0.41666666666666663,Positive
+296,156,206,"The instructions were unclear, and it doesn't work as advertised.",2023-10-25,instructions unclear not work advertised,5,2023,10,Wednesday,0.0,Neutral
+297,642,232,Impressed with the durability and performance of this product.,2023-07-29,impressed durability performance product,4,2023,7,Saturday,1.0,Positive
+298,923,267,I regret buying this. The quality is terrible and it stopped working within a week.,2023-09-18,regret buying quality terrible stopped working within week,8,2023,9,Monday,-1.0,Negative
+299,844,261,"I had high hopes, but this product failed to deliver.",2024-01-03,high hopes product failed deliver,5,2024,1,Wednesday,-0.16999999999999998,Negative
+300,553,247,Wonderful product! The quality and performance are unmatched.,2024-02-17,wonderful product quality performance unmatched,5,2024,2,Saturday,1.0,Positive
+301,545,229,Best investment I've made in a long time. Very happy with my purchase.,2024-02-05,best investment made long time happy purchase,7,2024,2,Monday,0.5833333333333334,Positive
+302,824,220,I regret buying this. Save your money and look elsewhere.,2023-07-08,regret buying save money look elsewhere,6,2023,7,Saturday,0.0,Neutral
+303,300,231,"The product functions well, but I feel it could be improved in some areas.",2023-12-22,product functions well feel could improved areas,7,2023,12,Friday,0.0,Neutral
+304,796,201,Such a fantastic product at a great price. Worth every cent!,2024-04-06,fantastic product great price worth every cent,7,2024,4,Saturday,0.5000000000000001,Positive
+305,482,282,Fantastic experience from start to finish. Highly recommend!,2024-03-10,fantastic experience start finish highly recommend,6,2024,3,Sunday,0.28,Positive
+306,459,295,Extremely dissatisfied. The product broke down after just one use.,2024-03-21,extremely dissatisfied product broke one use,6,2024,3,Thursday,-0.125,Negative
+307,892,265,"An average experience overall, neither great nor bad.",2023-12-30,average experience overall neither great bad,6,2023,12,Saturday,-0.012499999999999956,Neutral
+308,408,285,Perfect fit for my needs. Will definitely order again.,2023-08-12,perfect fit needs definitely order,5,2023,8,Saturday,0.4666666666666666,Positive
+309,512,234,"It works well, but there's nothing exciting about it.",2024-05-10,works well nothing exciting,4,2024,5,Friday,0.3,Positive
+310,690,241,I've never been this satisfied with a purchase before.,2024-01-29,never satisfied purchase,3,2024,1,Monday,-0.25,Negative
+311,795,222,"It's decent for the price, but it's not high quality.",2023-08-30,decent price not high quality,5,2023,8,Wednesday,0.04333333333333333,Neutral
+312,262,215,"It's not bad, just didn't live up to the expectations I had.",2024-02-26,not bad not live expectations,5,2024,2,Monday,0.14090909090909087,Positive
+313,648,266,It's easy to use and super efficient. I'm so glad I bought it.,2023-12-14,easy use super efficient glad bought,6,2023,12,Thursday,0.4222222222222222,Positive
+314,614,256,"It's not bad, just didn't live up to the expectations I had.",2023-10-12,not bad not live expectations,5,2023,10,Thursday,0.14090909090909087,Positive
+315,733,293,"Excellent quality, great design, and super easy to use.",2024-05-04,excellent quality great design super easy use,7,2024,5,Saturday,0.6416666666666666,Positive
+316,657,209,The product is exactly what I was hoping for. I'm very satisfied.,2024-06-10,product exactly hoping satisfied,4,2024,6,Monday,0.375,Positive
+317,727,284,"It's okay for basic use, but I wouldn't recommend it for anything more.",2023-07-22,okay basic use would not recommend anything,7,2023,7,Saturday,0.25,Positive
+318,872,239,The product performs decently but lacks some key features.,2023-10-01,product performs decently lacks key features,6,2023,10,Sunday,0.08333333333333333,Neutral
+319,233,271,It's sufficient for basic needs but could be better.,2023-10-04,sufficient basic needs could better,5,2023,10,Wednesday,0.25,Positive
+320,119,269,"It serves its purpose, but it's not anything extraordinary.",2023-08-09,serves purpose not anything extraordinary,5,2023,8,Wednesday,0.3333333333333333,Positive
+321,162,234,Perfect product for my needs! I can't imagine using anything else now.,2024-06-22,perfect product needs cannot imagine using anything else,8,2024,6,Saturday,1.0,Positive
+322,244,200,Perfect product for my needs! I can't imagine using anything else now.,2024-03-07,perfect product needs cannot imagine using anything else,8,2024,3,Thursday,1.0,Positive
+323,170,279,"It's functional, but I'm not blown away by it.",2023-09-22,functional not blown away,4,2023,9,Friday,0.0,Neutral
+324,371,255,The product does exactly what it's supposed to do. Very happy.,2024-06-02,product exactly supposed happy,4,2024,6,Sunday,0.525,Positive
+325,684,279,"I have no complaints, but I don't have any praise for it either.",2024-05-15,no complaints not praise either,5,2024,5,Wednesday,0.0,Neutral
+326,459,299,I couldn't be more pleased with this purchase. It works perfectly!,2023-08-18,could not pleased purchase works perfectly,6,2023,8,Friday,0.375,Positive
+327,510,291,I couldn't be happier with my purchase. It's perfect for what I needed.,2023-06-28,could not happier purchase perfect needed,6,2023,6,Wednesday,1.0,Positive
+328,569,269,"The instructions were unclear, and it doesn't work as advertised.",2024-04-06,instructions unclear not work advertised,5,2024,4,Saturday,0.0,Neutral
+329,599,244,"It's a decent option, but not the best one out there.",2024-01-03,decent option not best one,5,2024,1,Wednesday,-0.16666666666666669,Negative
+330,883,271,The product is okay but nothing too special.,2024-02-24,product okay nothing special,4,2024,2,Saturday,0.4285714285714286,Positive
+331,120,298,Impressed with the durability and performance of this product.,2024-05-19,impressed durability performance product,4,2024,5,Sunday,1.0,Positive
+332,308,237,It's sufficient for basic needs but could be better.,2024-05-29,sufficient basic needs could better,5,2024,5,Wednesday,0.25,Positive
+333,843,251,"The product arrived on time, but it's just alright.",2023-12-16,product arrived time alright,4,2023,12,Saturday,0.0,Neutral
+334,368,264,"It's a decent product, but it doesn't offer the best value for the price.",2023-11-13,decent product not offer best value price,7,2023,11,Monday,0.5833333333333334,Positive
+335,710,222,This doesn't even deserve one star. Completely useless and unreliable.,2023-07-16,not even deserve one star completely useless unreliable,8,2023,7,Sunday,-0.5,Negative
+336,312,222,"It's decent for the price, but it's not high quality.",2024-05-03,decent price not high quality,5,2024,5,Friday,0.04333333333333333,Neutral
+337,457,253,Poor quality and unreliable. Would not buy again.,2024-06-22,poor quality unreliable would not buy,6,2024,6,Saturday,-0.4,Negative
+338,522,216,I would not recommend this to anyone. It's a complete waste of money.,2023-07-28,would not recommend anyone complete waste money,7,2023,7,Friday,-0.05,Neutral
+339,696,261,This product has saved me so much time and effort. I couldn't be happier.,2024-01-16,product saved much time effort could not happier,8,2024,1,Tuesday,0.2,Positive
+340,840,219,I couldn't be more pleased with this purchase. It works perfectly!,2024-02-21,could not pleased purchase works perfectly,6,2024,2,Wednesday,0.375,Positive
+341,626,234,Not worth the hype. It's poorly made and doesn't function well.,2023-07-27,not worth hype poorly made not function well,8,2023,7,Thursday,-0.275,Negative
+342,424,299,I would not recommend this to anyone. It's a complete waste of money.,2024-04-05,would not recommend anyone complete waste money,7,2024,4,Friday,-0.05,Neutral
+343,756,224,"It's functional, but it's not a must-have product.",2024-04-23,functional not must product,4,2024,4,Tuesday,0.0,Neutral
+344,561,227,I would not recommend this to anyone. It's a complete waste of money.,2023-07-30,would not recommend anyone complete waste money,7,2023,7,Sunday,-0.05,Neutral
+345,865,273,"It's an okay product, nothing too fancy but does what it needs to do.",2024-04-02,okay product nothing fancy needs,5,2024,4,Tuesday,0.5,Positive
+346,605,298,"It does the job, but I wasn't impressed by its performance.",2024-01-13,job not impressed performance,4,2024,1,Saturday,-0.5,Negative
+347,217,201,"It's neither good nor bad. It works, but nothing to rave about.",2024-03-30,neither good bad works nothing rave,6,2024,3,Saturday,5.551115123125783e-17,Neutral
+348,642,211,"This item is exactly as described, and it works beautifully!",2023-12-23,item exactly described works beautifully,5,2023,12,Saturday,0.55,Positive
+349,230,294,Top-notch customer service and a reliable product. Great job!,2024-06-13,top notch customer service reliable product great job,8,2024,6,Thursday,0.65,Positive
+350,574,216,"The product works, but I've had better experiences with similar products.",2023-07-21,product works better experiences similar products,6,2023,7,Friday,0.25,Positive
+351,741,207,Such a fantastic product at a great price. Worth every cent!,2023-09-24,fantastic product great price worth every cent,7,2023,9,Sunday,0.5000000000000001,Positive
+352,739,269,The product is okay but nothing too special.,2024-01-17,product okay nothing special,4,2024,1,Wednesday,0.4285714285714286,Positive
+353,712,239,The product functions as expected but isn't remarkable.,2023-08-10,product functions expected not remarkable,5,2023,8,Thursday,-0.2375,Negative
+354,346,247,"The product is decent, but I've come across better quality.",2023-12-03,product decent come across better quality,6,2023,12,Sunday,0.3333333333333333,Positive
+355,222,256,"It's a decent option, but not the best one out there.",2023-10-30,decent option not best one,5,2023,10,Monday,-0.16666666666666669,Negative
+356,378,230,I'm very pleased with how quickly it arrived and the quality of the product.,2023-10-22,pleased quickly arrived quality product,5,2023,10,Sunday,0.41666666666666663,Positive
+357,552,200,Very high-quality product. I would buy it again without hesitation.,2024-02-08,high quality product would buy without hesitation,7,2024,2,Thursday,0.16,Positive
+358,324,243,"The product is okay, just nothing special to make it stand out.",2024-05-17,product okay nothing special make stand,6,2024,5,Friday,0.4285714285714286,Positive
+359,325,250,"Fantastic quality, and the performance is just amazing. Highly recommend!",2024-02-02,fantastic quality performance amazing highly recommend,6,2024,2,Friday,0.38666666666666666,Positive
+360,286,284,"I was expecting something better, but this product is just average.",2024-06-04,expecting something better product average,5,2024,6,Tuesday,0.175,Positive
+361,265,284,"I was expecting something better, but this product is just average.",2024-01-27,expecting something better product average,5,2024,1,Saturday,0.175,Positive
+362,950,284,The product was defective when I received it. Very disappointing.,2024-01-19,product defective received disappointing,4,2024,1,Friday,-0.6,Negative
+363,854,203,So impressed by the quality. This product truly delivers.,2024-05-19,impressed quality product truly delivers,5,2024,5,Sunday,1.0,Positive
+364,631,265,I'm very happy with the performance. It does exactly what I need.,2023-11-20,happy performance exactly need,4,2023,11,Monday,0.525,Positive
+365,866,205,Very high-quality product. I would buy it again without hesitation.,2024-04-19,high quality product would buy without hesitation,7,2024,4,Friday,0.16,Positive
+366,581,268,This product has exceeded all my expectations. I'm thrilled with it.,2023-11-20,product exceeded expectations thrilled,4,2023,11,Monday,0.6,Positive
+367,505,238,"It works fine for what it's meant to do, but there's nothing exciting about it.",2024-05-21,works fine meant nothing exciting,5,2024,5,Tuesday,0.35833333333333334,Positive
+368,796,247,It was a complete waste of money. I would never buy this again.,2023-11-06,complete waste money would never buy,6,2023,11,Monday,-0.05,Neutral
+369,108,259,"It serves its purpose, but it's not anything extraordinary.",2023-07-28,serves purpose not anything extraordinary,5,2023,7,Friday,0.3333333333333333,Positive
+370,285,256,"The product arrived on time, and I couldn't be happier with it.",2024-03-18,product arrived time could not happier,6,2024,3,Monday,0.0,Neutral
+371,627,279,"It's not great, but it's not bad either. It's somewhere in between.",2023-09-11,not great not bad either somewhere,6,2023,9,Monday,-0.02500000000000005,Neutral
+372,756,216,"It's good enough to keep, but I'm not excited about it.",2023-07-09,good enough keep not excited,5,2023,7,Sunday,0.1708333333333333,Positive
+373,928,208,I'm very happy with the performance. It does exactly what I need.,2023-11-25,happy performance exactly need,4,2023,11,Saturday,0.525,Positive
+374,105,263,Very high-quality product. I would buy it again without hesitation.,2023-08-26,high quality product would buy without hesitation,7,2023,8,Saturday,0.16,Positive
+375,282,207,This product is absolutely amazing. I'm recommending it to all my friends.,2023-12-09,product absolutely amazing recommending friends,5,2023,12,Saturday,0.6000000000000001,Positive
+376,257,200,"The quality is average, and it's okay for the price.",2023-08-27,quality average okay price,4,2023,8,Sunday,0.175,Positive
+377,315,260,"It's acceptable, but I don't have any strong feelings about it.",2023-11-02,acceptable not strong feelings,4,2023,11,Thursday,-0.21666666666666665,Negative
+378,597,233,"I tried using it, but it's just not functional. Very frustrating.",2023-12-26,tried using not functional frustrating,5,2023,12,Tuesday,-0.4,Negative
+379,964,218,The item broke after a few days of use. Not happy at all.,2023-07-23,item broke days use not happy,6,2023,7,Sunday,-0.4,Negative
+380,931,243,"I'm so dissatisfied. It doesn't work, and the build quality is subpar.",2023-10-07,dissatisfied not work build quality subpar,6,2023,10,Saturday,0.0,Neutral
+381,630,274,The product does exactly what it's supposed to do. Very happy.,2024-02-06,product exactly supposed happy,4,2024,2,Tuesday,0.525,Positive
+382,587,234,"It works fine for now, but I'm not sure about its long-term durability.",2023-11-12,works fine not sure long term durability,7,2023,11,Sunday,0.038888888888888896,Neutral
+383,396,241,Such a fantastic product at a great price. Worth every cent!,2023-11-28,fantastic product great price worth every cent,7,2023,11,Tuesday,0.5000000000000001,Positive
+384,626,209,"It works fine, but I had expected a bit more for the price.",2023-07-18,works fine expected bit price,5,2023,7,Tuesday,0.15833333333333333,Positive
+385,614,252,"Nothing to complain about, but nothing extraordinary either.",2024-01-19,nothing complain nothing extraordinary either,5,2024,1,Friday,0.3333333333333333,Positive
+386,391,217,The product is exactly what I was hoping for. I'm very satisfied.,2024-01-25,product exactly hoping satisfied,4,2024,1,Thursday,0.375,Positive
+387,568,292,"The customer service was fantastic, and the product arrived on time.",2024-06-19,customer service fantastic product arrived time,6,2024,6,Wednesday,0.4,Positive
+388,463,278,Very poor quality. It's already falling apart after a few weeks of use.,2024-05-23,poor quality already falling apart weeks use,7,2024,5,Thursday,-0.4,Negative
+389,739,228,I'm really upset with this purchase. It didn't do what it claimed.,2023-11-08,really upset purchase not claimed,5,2023,11,Wednesday,0.2,Positive
+390,976,278,I'm really impressed with the quality and the results. 10/10!,2023-07-19,really impressed quality results,4,2023,7,Wednesday,1.0,Positive
+391,969,280,Completely useless. It doesn't do what it says on the box.,2023-09-17,completely useless not says box,5,2023,9,Sunday,-0.5,Negative
+392,632,206,The product is functional but doesn't offer anything exciting.,2024-02-20,product functional not offer anything exciting,6,2024,2,Tuesday,0.3,Positive
+393,548,275,Excellent quality and fast shipping. Very happy with it.,2023-12-11,excellent quality fast shipping happy,5,2023,12,Monday,0.6666666666666666,Positive
+394,429,230,Wonderful product! The quality and performance are unmatched.,2024-04-14,wonderful product quality performance unmatched,5,2024,4,Sunday,1.0,Positive
+395,675,210,Not worth the investment. Very disappointing experience.,2024-01-18,not worth investment disappointing experience,5,2024,1,Thursday,-0.375,Negative
+396,681,284,"It's functional, but it's not a must-have product.",2023-10-05,functional not must product,4,2023,10,Thursday,0.0,Neutral
+397,286,279,I absolutely love this product! It exceeded my expectations in every way.,2024-01-21,absolutely love product exceeded expectations every way,7,2024,1,Sunday,0.5,Positive
+398,733,296,"It's decent, though I expected a little more.",2024-01-06,decent though expected little,4,2024,1,Saturday,-0.04027777777777778,Neutral
+399,932,252,"The product works as expected, but it's nothing special.",2024-05-24,product works expected nothing special,5,2024,5,Friday,0.12857142857142856,Positive
+400,648,221,Everything about this product is great! It works as advertised and more.,2023-10-23,everything product great works advertised,5,2023,10,Monday,0.8,Positive
+401,964,248,"It's good, but I was hoping for a bit more in terms of performance.",2023-11-23,good hoping bit terms performance,5,2023,11,Thursday,0.7,Positive
+402,661,294,Very sleek design and works just as advertised. Love it!,2023-12-19,sleek design works advertised love,5,2023,12,Tuesday,0.5,Positive
+403,485,233,"It's good enough to keep, but I'm not excited about it.",2024-04-03,good enough keep not excited,5,2024,4,Wednesday,0.1708333333333333,Positive
+404,728,227,This is exactly what I was looking for. I'm so glad I bought it!,2024-01-12,exactly looking glad bought,4,2024,1,Friday,0.375,Positive
+405,825,291,"It's not a bad product, but I think I could find something better.",2024-01-10,not bad product think could find something better,8,2024,1,Wednesday,0.42499999999999993,Positive
+406,870,208,"It's an okay product, but there are some issues I have with it.",2023-08-26,okay product issues,3,2023,8,Saturday,0.5,Positive
+407,284,235,The product functions as expected but isn't remarkable.,2023-11-10,product functions expected not remarkable,5,2023,11,Friday,-0.2375,Negative
+408,341,294,"It works fine for now, but I'm not sure about its long-term durability.",2024-02-05,works fine not sure long term durability,7,2024,2,Monday,0.038888888888888896,Neutral
+409,909,224,Worst purchase I've made in a while. It broke after just one use.,2023-10-02,worst purchase made broke one use,6,2023,10,Monday,-1.0,Negative
+410,862,210,Everything about this product is perfect. So happy with it!,2023-10-10,everything product perfect happy,4,2023,10,Tuesday,0.9,Positive
+411,649,211,"I had high hopes, but this product failed to deliver.",2023-11-15,high hopes product failed deliver,5,2023,11,Wednesday,-0.16999999999999998,Negative
+412,224,200,"It didn't work from the start, and I'm very upset with the quality.",2024-04-23,not work start upset quality,5,2024,4,Tuesday,0.0,Neutral
+413,198,275,The product does exactly what it's supposed to do. Very happy.,2023-12-04,product exactly supposed happy,4,2023,12,Monday,0.525,Positive
+414,130,279,Everything about this product is great! It works as advertised and more.,2024-01-02,everything product great works advertised,5,2024,1,Tuesday,0.8,Positive
+415,885,288,The product does not match the description. Avoid this seller.,2023-09-25,product not match description avoid seller,6,2023,9,Monday,0.0,Neutral
+416,590,279,This is hands down the best purchase I've made this year.,2024-01-28,hands best purchase made year,5,2024,1,Sunday,1.0,Positive
+417,168,280,"The customer service was fantastic, and the product arrived on time.",2024-06-04,customer service fantastic product arrived time,6,2024,6,Tuesday,0.4,Positive
+418,940,279,I regret buying this. The quality is terrible and it stopped working within a week.,2023-12-29,regret buying quality terrible stopped working within week,8,2023,12,Friday,-1.0,Negative
+419,644,211,The quality is outstanding. I'm extremely impressed.,2024-05-13,quality outstanding extremely impressed,4,2024,5,Monday,0.75,Positive
+420,568,208,I am extremely satisfied with my purchase. Worth every penny!,2023-10-21,extremely satisfied purchase worth every penny,6,2023,10,Saturday,0.4,Positive
+421,506,227,I've never been this satisfied with a purchase before.,2024-02-10,never satisfied purchase,3,2024,2,Saturday,-0.25,Negative
+422,412,208,"It works fine, but I had expected a bit more for the price.",2024-03-30,works fine expected bit price,5,2024,3,Saturday,0.15833333333333333,Positive
+423,395,200,"An average experience overall, neither great nor bad.",2024-04-14,average experience overall neither great bad,6,2024,4,Sunday,-0.012499999999999956,Neutral
+424,985,250,"The product arrived on time, but it's just alright.",2023-11-18,product arrived time alright,4,2023,11,Saturday,0.0,Neutral
+425,107,234,This is the worst item I've ever bought. I wish I could return it.,2024-04-02,worst item ever bought wish could return,7,2024,4,Tuesday,-1.0,Negative
+426,576,200,"It works fine, but I had expected a bit more for the price.",2023-10-20,works fine expected bit price,5,2023,10,Friday,0.15833333333333333,Positive
+427,370,262,This product has saved me so much time and effort. I couldn't be happier.,2023-12-01,product saved much time effort could not happier,8,2023,12,Friday,0.2,Positive
+428,540,204,It's neither great nor terrible. It's just okay.,2024-01-14,neither great terrible okay,4,2024,1,Sunday,0.10000000000000002,Positive
+429,120,275,This product has exceeded all my expectations. Very satisfied.,2024-04-20,product exceeded expectations satisfied,4,2024,4,Saturday,0.5,Positive
+430,552,214,It stopped working almost immediately. Waste of money.,2024-04-11,stopped working almost immediately waste money,6,2024,4,Thursday,-0.2,Negative
+431,506,231,I would not recommend this to anyone. It's a complete waste of money.,2024-06-23,would not recommend anyone complete waste money,7,2024,6,Sunday,-0.05,Neutral
+432,137,205,Not worth the investment. Very disappointing experience.,2023-08-11,not worth investment disappointing experience,5,2023,8,Friday,-0.375,Negative
+433,669,287,"I can't say it's amazing, but it does what I need it to do.",2024-03-13,cannot say amazing need,4,2024,3,Wednesday,0.6000000000000001,Positive
+434,208,231,"This item is exactly as described, and it works beautifully!",2024-06-06,item exactly described works beautifully,5,2024,6,Thursday,0.55,Positive
+435,212,290,"I'm satisfied, but I'm not overly enthusiastic about this product.",2023-08-23,satisfied not overly enthusiastic product,5,2023,8,Wednesday,0.55,Positive
+436,765,252,Extremely dissatisfied. The product broke down after just one use.,2023-12-31,extremely dissatisfied product broke one use,6,2023,12,Sunday,-0.125,Negative
+437,402,234,This is one of the best products I've bought in a long time.,2023-12-08,one best products bought long time,6,2023,12,Friday,0.475,Positive
+438,762,292,"A practical product, though not particularly exciting.",2024-03-29,practical product though not particularly exciting,6,2024,3,Friday,-0.15,Negative
+439,119,204,"It works, but I've had better products for the same price.",2024-02-28,works better products price,4,2024,2,Wednesday,0.5,Positive
+440,662,234,"It's good enough to keep, but I'm not excited about it.",2023-08-19,good enough keep not excited,5,2023,8,Saturday,0.1708333333333333,Positive
+441,445,281,"Excellent quality, great design, and super easy to use.",2023-09-21,excellent quality great design super easy use,7,2023,9,Thursday,0.6416666666666666,Positive
+442,513,247,"It's functional, but it's not a must-have product.",2023-08-31,functional not must product,4,2023,8,Thursday,0.0,Neutral
+443,482,241,This has been one of the best purchases I've made. Highly recommended!,2023-09-29,one best purchases made highly recommended,6,2023,9,Friday,0.58,Positive
+444,621,281,Everything about this product is great! It works as advertised and more.,2024-06-17,everything product great works advertised,5,2024,6,Monday,0.8,Positive
+445,788,294,"Not good at all. The quality is very poor, and I'm disappointed.",2024-06-01,not good quality poor disappointed,5,2024,6,Saturday,-0.5,Negative
+446,949,286,I regret buying this. Save your money and look elsewhere.,2024-05-21,regret buying save money look elsewhere,6,2024,5,Tuesday,0.0,Neutral
+447,872,289,"This product does its job, but I wouldn't go out of my way to buy it again.",2023-09-27,product job would not go way buy,7,2023,9,Wednesday,0.0,Neutral
+448,992,258,I absolutely love this product! It exceeded my expectations in every way.,2023-10-15,absolutely love product exceeded expectations every way,7,2023,10,Sunday,0.5,Positive
+449,904,229,Great performance and easy to use. I'm very satisfied with this product.,2024-05-21,great performance easy use satisfied product,6,2024,5,Tuesday,0.5777777777777778,Positive
+450,285,206,I'm very unhappy with this purchase. It didn't meet my expectations.,2023-10-25,unhappy purchase not meet expectations,5,2023,10,Wednesday,-0.6,Negative
+451,401,243,I couldn't be more pleased with this purchase. It works perfectly!,2023-12-12,could not pleased purchase works perfectly,6,2023,12,Tuesday,0.375,Positive
+452,156,294,Everything about this product is great! It works as advertised and more.,2023-10-03,everything product great works advertised,5,2023,10,Tuesday,0.8,Positive
+453,277,200,"It's functional, but it's not a must-have product.",2024-05-17,functional not must product,4,2024,5,Friday,0.0,Neutral
+454,297,264,"An average experience overall, neither great nor bad.",2024-03-18,average experience overall neither great bad,6,2024,3,Monday,-0.012499999999999956,Neutral
+455,239,273,Everything about this product is perfect. So happy with it!,2024-06-15,everything product perfect happy,4,2024,6,Saturday,0.9,Positive
+456,886,260,"The customer service was fantastic, and the product arrived on time.",2023-10-16,customer service fantastic product arrived time,6,2023,10,Monday,0.4,Positive
+457,115,220,I'm very pleased with how quickly it arrived and the quality of the product.,2023-07-02,pleased quickly arrived quality product,5,2023,7,Sunday,0.41666666666666663,Positive
+458,801,294,Top-notch customer service and a reliable product. Great job!,2023-10-20,top notch customer service reliable product great job,8,2023,10,Friday,0.65,Positive
+459,672,273,"It's decent, though I expected a little more.",2024-04-06,decent though expected little,4,2024,4,Saturday,-0.04027777777777778,Neutral
+460,567,247,"I've used it a few times and it works, but it's not impressive.",2023-09-06,used times works not impressive,5,2023,9,Wednesday,-0.5,Negative
+461,240,293,The product was defective when I received it. Very disappointing.,2024-03-05,product defective received disappointing,4,2024,3,Tuesday,-0.6,Negative
+462,510,291,"Perfect fit, great design, and works like a charm. Very pleased!",2024-06-21,perfect fit great design works like charm pleased,8,2024,6,Friday,0.675,Positive
+463,662,283,"It works, but it doesn't feel like a high-end product.",2023-09-18,works not feel like high end product,7,2023,9,Monday,0.16,Positive
+464,816,207,I've had a wonderful experience with this product. Definitely recommend it!,2023-08-09,wonderful experience product definitely recommend,5,2023,8,Wednesday,0.5,Positive
+465,599,299,Everything about this product is great! It works as advertised and more.,2023-09-20,everything product great works advertised,5,2023,9,Wednesday,0.8,Positive
+466,941,273,I would not recommend this to anyone. It's a complete waste of money.,2023-09-05,would not recommend anyone complete waste money,7,2023,9,Tuesday,-0.05,Neutral
+467,678,284,It's neither great nor terrible. It's just okay.,2024-03-15,neither great terrible okay,4,2024,3,Friday,0.10000000000000002,Positive
+468,148,253,"The quality is fine, but I've seen better products at this price.",2023-12-05,quality fine seen better products price,6,2023,12,Tuesday,0.45833333333333337,Positive
+469,448,268,This product is decent but doesn't stand out in any way.,2023-10-17,product decent not stand way,5,2023,10,Tuesday,0.16666666666666666,Positive
+470,651,214,"Very poor product. It broke down after minimal use, and I'm not happy.",2024-06-05,poor product broke minimal use not happy,7,2024,6,Wednesday,-0.3,Negative
+471,951,219,"It's a decent product, but it doesn't offer the best value for the price.",2023-08-16,decent product not offer best value price,7,2023,8,Wednesday,0.5833333333333334,Positive
+472,633,271,I've been using it for a while now and it's performing perfectly.,2023-10-21,using performing perfectly,3,2023,10,Saturday,1.0,Positive
+473,313,237,I'm frustrated with this product. It's not what I hoped for at all.,2023-11-04,frustrated product not hoped,4,2023,11,Saturday,-0.7,Negative
+474,901,265,"It's decent, though I expected a little more.",2023-10-02,decent though expected little,4,2023,10,Monday,-0.04027777777777778,Neutral
+475,693,234,I absolutely love this! It's even better than I expected.,2024-06-22,absolutely love even better expected,5,2024,6,Saturday,0.3,Positive
+476,903,257,"The product works as expected, but it's nothing special.",2023-09-05,product works expected nothing special,5,2023,9,Tuesday,0.12857142857142856,Positive
+477,487,207,Great performance and easy to use. I'm very satisfied with this product.,2024-05-28,great performance easy use satisfied product,6,2024,5,Tuesday,0.5777777777777778,Positive
+478,368,298,"I'm satisfied, but I'm not overly enthusiastic about this product.",2023-12-18,satisfied not overly enthusiastic product,5,2023,12,Monday,0.55,Positive
+479,844,220,So impressed by the quality. This product truly delivers.,2023-10-26,impressed quality product truly delivers,5,2023,10,Thursday,1.0,Positive
+480,420,240,Great product and excellent customer support. Totally worth it!,2024-04-21,great product excellent customer support totally worth,7,2024,4,Sunday,0.7000000000000001,Positive
+481,733,216,"I love this item. It's sturdy, functional, and well-made.",2024-01-01,love item sturdy functional well made,6,2024,1,Monday,0.5,Positive
+482,627,235,Absolutely love this product! It's a game-changer.,2023-09-25,absolutely love product game changer,5,2023,9,Monday,0.04999999999999999,Neutral
+483,759,236,"A practical product, though not particularly exciting.",2023-11-10,practical product though not particularly exciting,6,2023,11,Friday,-0.15,Negative
+484,383,275,This has made my life so much easier. I highly recommend it!,2023-11-20,made life much easier highly recommend,6,2023,11,Monday,0.18,Positive
+485,656,265,The product is okay but nothing too special.,2024-05-24,product okay nothing special,4,2024,5,Friday,0.4285714285714286,Positive
+486,808,276,This is hands down the best purchase I've made this year.,2023-09-23,hands best purchase made year,5,2023,9,Saturday,1.0,Positive
+487,476,284,The quality is outstanding. I'm extremely impressed.,2023-09-09,quality outstanding extremely impressed,4,2023,9,Saturday,0.75,Positive
+488,967,220,"I had high hopes for this, but it was a total letdown.",2023-07-26,high hopes total letdown,4,2023,7,Wednesday,0.08,Neutral
+489,537,291,"It's a decent product, but it doesn't offer the best value for the price.",2024-04-09,decent product not offer best value price,7,2024,4,Tuesday,0.5833333333333334,Positive
+490,308,280,"Excellent quality, great design, and super easy to use.",2023-10-18,excellent quality great design super easy use,7,2023,10,Wednesday,0.6416666666666666,Positive
+491,568,231,I've been using it for a while now and it's performing perfectly.,2023-11-19,using performing perfectly,3,2023,11,Sunday,1.0,Positive
+492,523,252,This product does exactly what I wanted it to do. Very pleased.,2024-05-02,product exactly wanted pleased,4,2024,5,Thursday,0.375,Positive
+493,603,203,Perfect fit for my needs. Will definitely order again.,2023-07-19,perfect fit needs definitely order,5,2023,7,Wednesday,0.4666666666666666,Positive
+494,202,291,"I've used it a few times and it works, but it's not impressive.",2024-06-10,used times works not impressive,5,2024,6,Monday,-0.5,Negative
+495,889,263,"I've used it a few times and it works, but it's not impressive.",2024-02-11,used times works not impressive,5,2024,2,Sunday,-0.5,Negative
+496,560,279,I absolutely love this product! It exceeded my expectations in every way.,2023-09-14,absolutely love product exceeded expectations every way,7,2023,9,Thursday,0.5,Positive
+497,589,242,"Not good at all. The quality is very poor, and I'm disappointed.",2023-12-14,not good quality poor disappointed,5,2023,12,Thursday,-0.5,Negative
+498,606,219,"I had high hopes, but this product failed to deliver.",2023-11-14,high hopes product failed deliver,5,2023,11,Tuesday,-0.16999999999999998,Negative
+499,735,201,"I was expecting something better, but this product is just average.",2024-01-25,expecting something better product average,5,2024,1,Thursday,0.175,Positive
+500,556,211,This is one of the best products I've bought in a long time.,2024-02-09,one best products bought long time,6,2024,2,Friday,0.475,Positive
+501,482,259,"The product functions well, but I feel it could be improved in some areas.",2023-09-29,product functions well feel could improved areas,7,2023,9,Friday,0.0,Neutral
+502,848,225,"The product is decent, but I've come across better quality.",2024-05-14,product decent come across better quality,6,2024,5,Tuesday,0.3333333333333333,Positive
+503,710,206,I've had a wonderful experience with this product. Definitely recommend it!,2024-01-23,wonderful experience product definitely recommend,5,2024,1,Tuesday,0.5,Positive
+504,559,216,Not worth the investment. Very disappointing experience.,2023-12-12,not worth investment disappointing experience,5,2023,12,Tuesday,-0.375,Negative
+505,951,264,"It didn't work from the start, and I'm very upset with the quality.",2023-07-11,not work start upset quality,5,2023,7,Tuesday,0.0,Neutral
+506,511,281,It's easy to use and super efficient. I'm so glad I bought it.,2023-12-29,easy use super efficient glad bought,6,2023,12,Friday,0.4222222222222222,Positive
+507,771,271,The quality and performance of this product are top-notch.,2023-11-25,quality performance product top notch,5,2023,11,Saturday,0.5,Positive
+508,129,217,I couldn't be more pleased with this purchase. It works perfectly!,2024-02-25,could not pleased purchase works perfectly,6,2024,2,Sunday,0.375,Positive
+509,256,238,The quality is outstanding. I'm extremely impressed.,2023-07-03,quality outstanding extremely impressed,4,2023,7,Monday,0.75,Positive
+510,164,234,"Not bad, but there's room for improvement in some areas.",2023-07-03,not bad room improvement areas,5,2023,7,Monday,0.3499999999999999,Positive
+511,806,215,"I was hoping for something better, but this item is completely useless.",2023-12-12,hoping something better item completely useless,6,2023,12,Tuesday,0.0,Neutral
+512,686,203,Very poor quality. It's already falling apart after a few weeks of use.,2024-02-11,poor quality already falling apart weeks use,7,2024,2,Sunday,-0.4,Negative
+513,973,280,"It works, but I've had better products for the same price.",2023-12-28,works better products price,4,2023,12,Thursday,0.5,Positive
+514,333,207,"The product arrived on time, and I couldn't be happier with it.",2024-06-18,product arrived time could not happier,6,2024,6,Tuesday,0.0,Neutral
+515,662,256,"The product arrived on time, but it's just alright.",2024-04-09,product arrived time alright,4,2024,4,Tuesday,0.0,Neutral
+516,474,219,I've had better products for less money. This one is definitely not worth it.,2024-03-21,better products less money one definitely not worth,8,2024,3,Thursday,0.06111111111111112,Neutral
+517,233,231,I don't recommend this at all. It's not functional and doesn't last.,2024-01-21,not recommend not functional not last,6,2024,1,Sunday,0.0,Neutral
+518,544,268,The product is of poor quality. It doesn't last long and doesn't do what it should.,2023-08-28,product poor quality not last long not,7,2023,8,Monday,-0.15,Negative
+519,239,202,"It's not great, but it's not bad either. It's somewhere in between.",2024-02-17,not great not bad either somewhere,6,2024,2,Saturday,-0.02500000000000005,Neutral
+520,670,231,Impressed with the durability and performance of this product.,2024-01-20,impressed durability performance product,4,2024,1,Saturday,1.0,Positive
+521,469,236,I've never been this satisfied with a purchase before.,2023-11-18,never satisfied purchase,3,2023,11,Saturday,-0.25,Negative
+522,336,234,"The product arrived on time, and I couldn't be happier with it.",2024-03-03,product arrived time could not happier,6,2024,3,Sunday,0.0,Neutral
+523,391,283,Wonderful product! The quality and performance are unmatched.,2023-09-02,wonderful product quality performance unmatched,5,2023,9,Saturday,1.0,Positive
+524,847,256,Perfect fit for my needs. Will definitely order again.,2024-05-08,perfect fit needs definitely order,5,2024,5,Wednesday,0.4666666666666666,Positive
+525,145,266,"It's a standard product, nothing to rave about.",2023-07-03,standard product nothing rave,4,2023,7,Monday,0.0,Neutral
+526,611,291,"It's a standard product, nothing to rave about.",2024-03-05,standard product nothing rave,4,2024,3,Tuesday,0.0,Neutral
+527,913,279,"This didn't work as expected, and I'm very disappointed with my purchase.",2024-01-12,not work expected disappointed purchase,5,2024,1,Friday,-0.425,Negative
+528,108,270,Top-notch customer service and a reliable product. Great job!,2024-06-25,top notch customer service reliable product great job,8,2024,6,Tuesday,0.65,Positive
+529,690,223,Excellent quality and fast shipping. Very happy with it.,2023-06-28,excellent quality fast shipping happy,5,2023,6,Wednesday,0.6666666666666666,Positive
+530,747,231,I don't recommend this at all. It's not functional and doesn't last.,2024-04-06,not recommend not functional not last,6,2024,4,Saturday,0.0,Neutral
+531,228,249,"Perfect fit, great design, and works like a charm. Very pleased!",2024-04-14,perfect fit great design works like charm pleased,8,2024,4,Sunday,0.675,Positive
+532,548,216,This product is cheaply made and didn't meet my expectations at all.,2024-06-01,product cheaply made not meet expectations,6,2024,6,Saturday,0.4,Positive
+533,333,235,Best investment I've made in a long time. Very happy with my purchase.,2023-09-15,best investment made long time happy purchase,7,2023,9,Friday,0.5833333333333334,Positive
+534,612,268,"I tried using it, but it's just not functional. Very frustrating.",2023-08-01,tried using not functional frustrating,5,2023,8,Tuesday,-0.4,Negative
+535,229,255,Not worth the money at all. It's cheaply made and poorly designed.,2023-10-28,not worth money cheaply made poorly designed,7,2023,10,Saturday,-0.05000000000000001,Neutral
+536,349,270,This is one of the best products I've bought in a long time.,2024-03-28,one best products bought long time,6,2024,3,Thursday,0.475,Positive
+537,839,200,"The product is decent, but I've come across better quality.",2024-06-20,product decent come across better quality,6,2024,6,Thursday,0.3333333333333333,Positive
+538,994,293,"It's a decent product for the price, though there are better alternatives.",2024-02-07,decent product price though better alternatives,6,2024,2,Wednesday,0.3333333333333333,Positive
+539,485,207,This product has made my daily routine so much easier. Highly recommend.,2023-10-07,product made daily routine much easier highly recommend,8,2023,10,Saturday,0.12,Positive
+540,743,207,Very high-quality product. I would buy it again without hesitation.,2024-01-26,high quality product would buy without hesitation,7,2024,1,Friday,0.16,Positive
+541,793,266,I'm very pleased with how quickly it arrived and the quality of the product.,2023-10-31,pleased quickly arrived quality product,5,2023,10,Tuesday,0.41666666666666663,Positive
+542,447,290,"I'm satisfied, but I'm not overly enthusiastic about this product.",2024-06-23,satisfied not overly enthusiastic product,5,2024,6,Sunday,0.55,Positive
+543,189,236,Great value for money. The product quality is superb!,2023-07-18,great value money product quality superb,6,2023,7,Tuesday,0.9,Positive
+544,792,295,"The product arrived on time, but it's just alright.",2024-01-07,product arrived time alright,4,2024,1,Sunday,0.0,Neutral
+545,402,244,Everything about this product is great! It works as advertised and more.,2024-01-03,everything product great works advertised,5,2024,1,Wednesday,0.8,Positive
+546,772,236,This product has exceeded all my expectations. Very satisfied.,2024-02-23,product exceeded expectations satisfied,4,2024,2,Friday,0.5,Positive
+547,257,234,This is one of the best products I've bought in a long time.,2023-11-18,one best products bought long time,6,2023,11,Saturday,0.475,Positive
+548,571,271,"It works fine for what it's meant to do, but there's nothing exciting about it.",2023-12-04,works fine meant nothing exciting,5,2023,12,Monday,0.35833333333333334,Positive
+549,560,275,"The product is awful. It doesn't work as it should, and it's frustrating to use.",2023-11-25,product awful not work frustrating use,6,2023,11,Saturday,-0.7,Negative
+550,238,296,Perfect product for my needs! I can't imagine using anything else now.,2024-04-26,perfect product needs cannot imagine using anything else,8,2024,4,Friday,1.0,Positive
+551,943,211,This product is decent but doesn't stand out in any way.,2023-10-05,product decent not stand way,5,2023,10,Thursday,0.16666666666666666,Positive
+552,511,201,The product is not durable at all. It started malfunctioning right away.,2023-12-18,product not durable started malfunctioning right away,7,2023,12,Monday,0.2857142857142857,Positive
+553,474,252,Everything about this product is perfect. So happy with it!,2023-10-21,everything product perfect happy,4,2023,10,Saturday,0.9,Positive
+554,164,256,I couldn't be happier with my purchase. It's perfect for what I needed.,2023-07-03,could not happier purchase perfect needed,6,2023,7,Monday,1.0,Positive
+555,894,220,"It's an okay product, nothing too fancy but does what it needs to do.",2023-12-16,okay product nothing fancy needs,5,2023,12,Saturday,0.5,Positive
+556,720,255,"I'm so dissatisfied. It doesn't work, and the build quality is subpar.",2024-01-15,dissatisfied not work build quality subpar,6,2024,1,Monday,0.0,Neutral
+557,590,259,Not worth the money at all. It's cheaply made and poorly designed.,2023-07-04,not worth money cheaply made poorly designed,7,2023,7,Tuesday,-0.05000000000000001,Neutral
+558,887,232,This has been one of the best purchases I've made. Highly recommended!,2024-02-05,one best purchases made highly recommended,6,2024,2,Monday,0.58,Positive
+559,276,217,I'm very pleased with how quickly it arrived and the quality of the product.,2023-07-26,pleased quickly arrived quality product,5,2023,7,Wednesday,0.41666666666666663,Positive
+560,546,278,Impressed with the durability and performance of this product.,2024-04-30,impressed durability performance product,4,2024,4,Tuesday,1.0,Positive
+561,162,258,The product is exactly what I was hoping for. I'm very satisfied.,2024-03-27,product exactly hoping satisfied,4,2024,3,Wednesday,0.375,Positive
+562,362,218,"Perfect fit, great design, and works like a charm. Very pleased!",2023-12-23,perfect fit great design works like charm pleased,8,2023,12,Saturday,0.675,Positive
+563,554,214,Overpriced for what it offers. Very unhappy with my purchase.,2024-06-25,overpriced offers unhappy purchase,4,2024,6,Tuesday,-0.25,Negative
+564,589,265,I absolutely love this product! It exceeded my expectations in every way.,2024-02-15,absolutely love product exceeded expectations every way,7,2024,2,Thursday,0.5,Positive
+565,887,290,"I tried using it, but it's just not functional. Very frustrating.",2023-11-10,tried using not functional frustrating,5,2023,11,Friday,-0.4,Negative
+566,297,252,It's sufficient for basic needs but could be better.,2023-12-25,sufficient basic needs could better,5,2023,12,Monday,0.25,Positive
+567,193,241,"It's a decent product for the price, though there are better alternatives.",2023-09-10,decent product price though better alternatives,6,2023,9,Sunday,0.3333333333333333,Positive
+568,659,213,"The product is decent, but I've come across better quality.",2023-10-18,product decent come across better quality,6,2023,10,Wednesday,0.3333333333333333,Positive
+569,331,265,Terrible experience. The product doesn't perform well at all.,2024-05-23,terrible experience product not perform well,6,2024,5,Thursday,-1.0,Negative
+570,771,258,I'm really impressed with the quality and the results. 10/10!,2023-10-12,really impressed quality results,4,2023,10,Thursday,1.0,Positive
+571,669,225,This product does exactly what I wanted it to do. Very pleased.,2024-06-22,product exactly wanted pleased,4,2024,6,Saturday,0.375,Positive
+572,550,249,This product is cheaply made and didn't meet my expectations at all.,2024-01-27,product cheaply made not meet expectations,6,2024,1,Saturday,0.4,Positive
+573,405,248,"It does its job, but I wouldn't say it's a standout product.",2023-07-28,job would not say standout product,6,2023,7,Friday,0.0,Neutral
+574,651,252,The product is exactly what I was hoping for. I'm very satisfied.,2024-04-01,product exactly hoping satisfied,4,2024,4,Monday,0.375,Positive
+575,481,298,"I've used it for a week, and it functions as advertised, but it's not extraordinary.",2024-03-12,used week functions advertised not extraordinary,6,2024,3,Tuesday,-0.16666666666666666,Negative
+576,729,206,"Customer service was unhelpful, and the product is subpar.",2024-04-05,customer service unhelpful product subpar,5,2024,4,Friday,0.0,Neutral
+577,998,230,The quality is outstanding. I'm extremely impressed.,2024-06-10,quality outstanding extremely impressed,4,2024,6,Monday,0.75,Positive
+578,605,275,This product is absolutely amazing. I'm recommending it to all my friends.,2023-11-30,product absolutely amazing recommending friends,5,2023,11,Thursday,0.6000000000000001,Positive
+579,458,273,"The quality is fine, but I've seen better products at this price.",2023-08-12,quality fine seen better products price,6,2023,8,Saturday,0.45833333333333337,Positive
+580,333,279,"It's functional, but it's not a must-have product.",2023-09-03,functional not must product,4,2023,9,Sunday,0.0,Neutral
+581,650,207,Works perfectly! Totally exceeded my expectations in terms of performance.,2024-03-17,works perfectly totally exceeded expectations terms performance,7,2024,3,Sunday,0.0,Neutral
+582,775,236,"It serves its purpose, but it's not anything extraordinary.",2023-11-07,serves purpose not anything extraordinary,5,2023,11,Tuesday,0.3333333333333333,Positive
+583,578,297,Absolutely love this product! It's a game-changer.,2024-01-31,absolutely love product game changer,5,2024,1,Wednesday,0.04999999999999999,Neutral
+584,670,278,This product has made my daily routine so much easier. Highly recommend.,2023-10-10,product made daily routine much easier highly recommend,8,2023,10,Tuesday,0.12,Positive
+585,172,299,I don't recommend this at all. It's not functional and doesn't last.,2023-09-07,not recommend not functional not last,6,2023,9,Thursday,0.0,Neutral
+586,594,209,"It works so well, and it's exactly what I needed for my project.",2023-11-25,works well exactly needed project,5,2023,11,Saturday,0.25,Positive
+587,742,215,"It works, but it doesn't feel like a high-end product.",2023-11-05,works not feel like high end product,7,2023,11,Sunday,0.16,Positive
+588,771,222,It's easy to use and super efficient. I'm so glad I bought it.,2024-06-08,easy use super efficient glad bought,6,2024,6,Saturday,0.4222222222222222,Positive
+589,702,241,"Not good at all. The quality is very poor, and I'm disappointed.",2024-05-28,not good quality poor disappointed,5,2024,5,Tuesday,-0.5,Negative
+590,201,274,"It's acceptable, but I don't have any strong feelings about it.",2023-09-16,acceptable not strong feelings,4,2023,9,Saturday,-0.21666666666666665,Negative
+591,228,256,Extremely dissatisfied. The product broke down after just one use.,2024-04-16,extremely dissatisfied product broke one use,6,2024,4,Tuesday,-0.125,Negative
+592,863,254,Completely useless. It doesn't do what it says on the box.,2023-07-24,completely useless not says box,5,2023,7,Monday,-0.5,Negative
+593,484,296,It's neither great nor terrible. It's just okay.,2023-11-11,neither great terrible okay,4,2023,11,Saturday,0.10000000000000002,Positive
+594,385,232,Wonderful product! The quality and performance are unmatched.,2023-07-21,wonderful product quality performance unmatched,5,2023,7,Friday,1.0,Positive
+595,672,215,Great value for money. The product quality is superb!,2024-01-17,great value money product quality superb,6,2024,1,Wednesday,0.9,Positive
+596,711,263,The product is okay but nothing too special.,2023-12-07,product okay nothing special,4,2023,12,Thursday,0.4285714285714286,Positive
+597,710,256,I've had nothing but problems with this product. It's not reliable.,2023-10-27,nothing problems product not reliable,5,2023,10,Friday,0.0,Neutral
+598,801,280,"The product functions well, but I feel it could be improved in some areas.",2023-09-14,product functions well feel could improved areas,7,2023,9,Thursday,0.0,Neutral
+599,673,225,"I don't hate it, but I don't love it either. It's just average.",2023-10-05,not hate not love either average,6,2023,10,Thursday,9.25185853854297e-18,Neutral
+600,643,288,I regret buying this. Save your money and look elsewhere.,2023-10-29,regret buying save money look elsewhere,6,2023,10,Sunday,0.0,Neutral
+601,555,249,Such a fantastic product at a great price. Worth every cent!,2024-01-13,fantastic product great price worth every cent,7,2024,1,Saturday,0.5000000000000001,Positive
+602,553,268,"It's good enough to keep, but I'm not excited about it.",2024-05-28,good enough keep not excited,5,2024,5,Tuesday,0.1708333333333333,Positive
+603,553,204,"The instructions were unclear, and it doesn't work as advertised.",2023-08-09,instructions unclear not work advertised,5,2023,8,Wednesday,0.0,Neutral
+604,552,260,The item I received was completely different from what was shown online.,2024-01-18,item received completely different shown online,6,2024,1,Thursday,0.0,Neutral
+605,870,263,"The instructions were unclear, and it doesn't work as advertised.",2024-02-01,instructions unclear not work advertised,5,2024,2,Thursday,0.0,Neutral
+606,576,291,This has been one of the best purchases I've made. Highly recommended!,2023-09-10,one best purchases made highly recommended,6,2023,9,Sunday,0.58,Positive
+607,925,268,It's easy to use and super efficient. I'm so glad I bought it.,2023-12-21,easy use super efficient glad bought,6,2023,12,Thursday,0.4222222222222222,Positive
+608,583,291,Very high-quality product. I would buy it again without hesitation.,2024-02-08,high quality product would buy without hesitation,7,2024,2,Thursday,0.16,Positive
+609,485,217,Very high-quality product. I would buy it again without hesitation.,2023-11-04,high quality product would buy without hesitation,7,2023,11,Saturday,0.16,Positive
+610,994,285,"It's not a bad product, but I think I could find something better.",2024-02-09,not bad product think could find something better,8,2024,2,Friday,0.42499999999999993,Positive
+611,492,244,The best product I've used in a long time. Kudos to the team!,2024-04-13,best product used long time kudos team,7,2024,4,Saturday,0.475,Positive
+612,481,277,"I've used it for a week, and it functions as advertised, but it's not extraordinary.",2024-01-27,used week functions advertised not extraordinary,6,2024,1,Saturday,-0.16666666666666666,Negative
+613,233,213,I was expecting more from this product. It doesn't perform well.,2023-07-18,expecting product not perform well,5,2023,7,Tuesday,0.0,Neutral
+614,994,230,"It does the job, but I wasn't impressed by its performance.",2024-03-26,job not impressed performance,4,2024,3,Tuesday,-0.5,Negative
+615,720,209,I've been using it for a while now and it's performing perfectly.,2023-08-04,using performing perfectly,3,2023,8,Friday,1.0,Positive
+616,172,201,The product is okay but nothing too special.,2023-06-28,product okay nothing special,4,2023,6,Wednesday,0.4285714285714286,Positive
+617,200,279,This product does exactly what I wanted it to do. Very pleased.,2024-03-16,product exactly wanted pleased,4,2024,3,Saturday,0.375,Positive
+618,436,283,"Perfect fit, great design, and works like a charm. Very pleased!",2024-03-16,perfect fit great design works like charm pleased,8,2024,3,Saturday,0.675,Positive
+619,115,289,This is the worst item I've ever bought. I wish I could return it.,2023-10-23,worst item ever bought wish could return,7,2023,10,Monday,-1.0,Negative
+620,796,201,This product has made my daily routine so much easier. Highly recommend.,2023-12-16,product made daily routine much easier highly recommend,8,2023,12,Saturday,0.12,Positive
+621,936,205,Top-notch customer service and a reliable product. Great job!,2024-05-01,top notch customer service reliable product great job,8,2024,5,Wednesday,0.65,Positive
+622,276,261,This is hands down the best purchase I've made this year.,2024-06-08,hands best purchase made year,5,2024,6,Saturday,1.0,Positive
+623,977,217,"It's acceptable, but I don't have any strong feelings about it.",2024-04-21,acceptable not strong feelings,4,2024,4,Sunday,-0.21666666666666665,Negative
+624,257,216,Such a fantastic product at a great price. Worth every cent!,2024-04-16,fantastic product great price worth every cent,7,2024,4,Tuesday,0.5000000000000001,Positive
+625,727,244,"It works so well, and it's exactly what I needed for my project.",2023-08-22,works well exactly needed project,5,2023,8,Tuesday,0.25,Positive
+626,456,251,This product is absolutely amazing. I'm recommending it to all my friends.,2024-02-04,product absolutely amazing recommending friends,5,2024,2,Sunday,0.6000000000000001,Positive
+627,820,294,Very high-quality product. I would buy it again without hesitation.,2024-03-01,high quality product would buy without hesitation,7,2024,3,Friday,0.16,Positive
+628,589,286,This is exactly what I was looking for. I'm so glad I bought it!,2023-09-02,exactly looking glad bought,4,2023,9,Saturday,0.375,Positive
+629,148,223,"It's not bad, just didn't live up to the expectations I had.",2023-08-13,not bad not live expectations,5,2023,8,Sunday,0.14090909090909087,Positive
+630,114,212,Works perfectly! Totally exceeded my expectations in terms of performance.,2024-02-18,works perfectly totally exceeded expectations terms performance,7,2024,2,Sunday,0.0,Neutral
+631,967,233,This doesn't even deserve one star. Completely useless and unreliable.,2024-04-21,not even deserve one star completely useless unreliable,8,2024,4,Sunday,-0.5,Negative
+632,525,264,The product does exactly what it's supposed to do. Very happy.,2023-10-11,product exactly supposed happy,4,2023,10,Wednesday,0.525,Positive
+633,371,265,Best investment I've made in a long time. Very happy with my purchase.,2023-08-16,best investment made long time happy purchase,7,2023,8,Wednesday,0.5833333333333334,Positive
+634,450,207,Very sleek design and works just as advertised. Love it!,2023-10-27,sleek design works advertised love,5,2023,10,Friday,0.5,Positive
+635,955,204,"It's good, but I was hoping for a bit more in terms of performance.",2024-04-15,good hoping bit terms performance,5,2024,4,Monday,0.7,Positive
+636,308,267,I've been using it for a while now and it's performing perfectly.,2024-01-17,using performing perfectly,3,2024,1,Wednesday,1.0,Positive
+637,193,292,"It's okay for basic use, but I wouldn't recommend it for anything more.",2023-11-10,okay basic use would not recommend anything,7,2023,11,Friday,0.25,Positive
+638,612,200,Great value for money. The product quality is superb!,2024-02-03,great value money product quality superb,6,2024,2,Saturday,0.9,Positive
+639,643,229,I was expecting more from this product. It doesn't perform well.,2023-09-20,expecting product not perform well,5,2023,9,Wednesday,0.0,Neutral
+640,969,297,This is exactly what I was looking for. I'm so glad I bought it!,2024-05-11,exactly looking glad bought,4,2024,5,Saturday,0.375,Positive
+641,738,259,This product didn't work as expected. It's unreliable and frustrating.,2024-05-07,product not work expected unreliable frustrating,6,2024,5,Tuesday,-0.25,Negative
+642,261,294,Very sleek design and works just as advertised. Love it!,2023-07-26,sleek design works advertised love,5,2023,7,Wednesday,0.5,Positive
+643,752,215,I couldn't be happier with my purchase. It's perfect for what I needed.,2024-02-26,could not happier purchase perfect needed,6,2024,2,Monday,1.0,Positive
+644,976,287,"It didn't work from the start, and I'm very upset with the quality.",2024-04-03,not work start upset quality,5,2024,4,Wednesday,0.0,Neutral
+645,677,257,This product has exceeded all my expectations. Very satisfied.,2023-12-12,product exceeded expectations satisfied,4,2023,12,Tuesday,0.5,Positive
+646,522,234,Terrible experience. The product doesn't perform well at all.,2024-04-08,terrible experience product not perform well,6,2024,4,Monday,-1.0,Negative
+647,349,206,I'm frustrated with this product. It's not what I hoped for at all.,2023-10-20,frustrated product not hoped,4,2023,10,Friday,-0.7,Negative
+648,761,221,"I have no complaints, but I don't have any praise for it either.",2024-02-02,no complaints not praise either,5,2024,2,Friday,0.0,Neutral
+649,331,248,Worth every penny! Amazing quality and service.,2024-04-13,worth every penny amazing quality service,6,2024,4,Saturday,0.45000000000000007,Positive
+650,413,270,This product is absolutely amazing. I'm recommending it to all my friends.,2024-03-15,product absolutely amazing recommending friends,5,2024,3,Friday,0.6000000000000001,Positive
+651,216,229,"It's fine, but it doesn't exceed the expectations set by the description.",2024-03-18,fine not exceed expectations set description,6,2024,3,Monday,0.4166666666666667,Positive
+652,638,231,Worth every penny! Amazing quality and service.,2023-11-18,worth every penny amazing quality service,6,2023,11,Saturday,0.45000000000000007,Positive
+653,559,251,"Customer service was unhelpful, and the product is subpar.",2024-01-04,customer service unhelpful product subpar,5,2024,1,Thursday,0.0,Neutral
+654,224,274,Everything about this product is perfect. So happy with it!,2024-03-29,everything product perfect happy,4,2024,3,Friday,0.9,Positive
+655,775,201,"The product is fine, but it lacks the features I was hoping for.",2024-05-05,product fine lacks features hoping,5,2024,5,Sunday,0.4166666666666667,Positive
+656,622,230,The product functions as expected but isn't remarkable.,2023-12-13,product functions expected not remarkable,5,2023,12,Wednesday,-0.2375,Negative
+657,583,284,This product is absolutely amazing. I'm recommending it to all my friends.,2023-09-14,product absolutely amazing recommending friends,5,2023,9,Thursday,0.6000000000000001,Positive
+658,762,262,Very high-quality product. I would buy it again without hesitation.,2023-07-27,high quality product would buy without hesitation,7,2023,7,Thursday,0.16,Positive
+659,678,284,"It's functional, but I don't feel strongly about it either way.",2023-08-11,functional not feel strongly either way,6,2023,8,Friday,0.4333333333333333,Positive
+660,191,220,Impressed with the durability and performance of this product.,2024-01-24,impressed durability performance product,4,2024,1,Wednesday,1.0,Positive
+661,268,245,The best product I've used in a long time. Kudos to the team!,2023-11-11,best product used long time kudos team,7,2023,11,Saturday,0.475,Positive
+662,556,276,The product is just fine. Doesn't stand out in any way.,2023-10-12,product fine not stand way,5,2023,10,Thursday,0.4166666666666667,Positive
+663,181,295,I've had a wonderful experience with this product. Definitely recommend it!,2023-10-25,wonderful experience product definitely recommend,5,2023,10,Wednesday,0.5,Positive
+664,499,284,The best product I've used in a long time. Kudos to the team!,2023-09-04,best product used long time kudos team,7,2023,9,Monday,0.475,Positive
+665,415,218,It's easy to use and super efficient. I'm so glad I bought it.,2023-08-28,easy use super efficient glad bought,6,2023,8,Monday,0.4222222222222222,Positive
+666,450,285,The product is functional but doesn't offer anything exciting.,2024-04-12,product functional not offer anything exciting,6,2024,4,Friday,0.3,Positive
+667,102,247,"It's fine, but it doesn't exceed the expectations set by the description.",2023-07-21,fine not exceed expectations set description,6,2023,7,Friday,0.4166666666666667,Positive
+668,713,237,Worth every penny! Amazing quality and service.,2024-05-28,worth every penny amazing quality service,6,2024,5,Tuesday,0.45000000000000007,Positive
+669,433,262,I'm very pleased with how quickly it arrived and the quality of the product.,2024-05-14,pleased quickly arrived quality product,5,2024,5,Tuesday,0.41666666666666663,Positive
+670,795,285,"It's neither good nor bad. It works, but nothing to rave about.",2023-09-23,neither good bad works nothing rave,6,2023,9,Saturday,5.551115123125783e-17,Neutral
+671,688,221,"This item is exactly as described, and it works beautifully!",2024-06-25,item exactly described works beautifully,5,2024,6,Tuesday,0.55,Positive
+672,926,272,Terrible experience. The product doesn't perform well at all.,2023-11-23,terrible experience product not perform well,6,2023,11,Thursday,-1.0,Negative
+673,288,294,I'm very pleased with how quickly it arrived and the quality of the product.,2024-04-27,pleased quickly arrived quality product,5,2024,4,Saturday,0.41666666666666663,Positive
+674,686,222,So impressed by the quality. This product truly delivers.,2024-02-22,impressed quality product truly delivers,5,2024,2,Thursday,1.0,Positive
+675,217,263,Overpriced for what it offers. Very unhappy with my purchase.,2023-10-14,overpriced offers unhappy purchase,4,2023,10,Saturday,-0.25,Negative
+676,550,257,It was a complete waste of money. I would never buy this again.,2023-11-17,complete waste money would never buy,6,2023,11,Friday,-0.05,Neutral
+677,257,215,It's an okay option if you're looking for something basic.,2023-12-13,okay option looking something basic,5,2023,12,Wednesday,0.25,Positive
+678,926,204,"The product arrived on time, but it's just alright.",2023-12-04,product arrived time alright,4,2023,12,Monday,0.0,Neutral
+679,683,224,I've never been this satisfied with a purchase before.,2024-06-09,never satisfied purchase,3,2024,6,Sunday,-0.25,Negative
+680,286,267,The best product I've used in a long time. Kudos to the team!,2024-06-21,best product used long time kudos team,7,2024,6,Friday,0.475,Positive
+681,841,296,I absolutely love this! It's even better than I expected.,2023-06-27,absolutely love even better expected,5,2023,6,Tuesday,0.3,Positive
+682,854,271,I am extremely satisfied with my purchase. Worth every penny!,2024-01-05,extremely satisfied purchase worth every penny,6,2024,1,Friday,0.4,Positive
+683,487,246,"The product does its job, but I expected something more impressive.",2024-02-12,product job expected something impressive,5,2024,2,Monday,0.45,Positive
+684,642,243,Very disappointing. I expected much more for the price I paid.,2023-12-11,disappointing expected much price paid,5,2023,12,Monday,-0.16666666666666666,Negative
+685,643,288,This is exactly what I was looking for. I'm so glad I bought it!,2024-01-11,exactly looking glad bought,4,2024,1,Thursday,0.375,Positive
+686,417,264,"The product is good for the price, but there are some minor flaws.",2024-04-15,product good price minor flaws,5,2024,4,Monday,0.32499999999999996,Positive
+687,196,252,"It's not a bad product, but I think I could find something better.",2023-11-23,not bad product think could find something better,8,2023,11,Thursday,0.42499999999999993,Positive
+688,985,215,I regret buying this. Save your money and look elsewhere.,2024-03-30,regret buying save money look elsewhere,6,2024,3,Saturday,0.0,Neutral
+689,675,264,This has made my life so much easier. I highly recommend it!,2024-04-29,made life much easier highly recommend,6,2024,4,Monday,0.18,Positive
+690,954,244,"Nothing to complain about, but nothing extraordinary either.",2024-03-28,nothing complain nothing extraordinary either,5,2024,3,Thursday,0.3333333333333333,Positive
+691,265,223,I'm very happy with the performance. It does exactly what I need.,2024-05-09,happy performance exactly need,4,2024,5,Thursday,0.525,Positive
+692,458,241,"The product does its job, but I expected something more impressive.",2023-09-03,product job expected something impressive,5,2023,9,Sunday,0.45,Positive
+693,858,298,"I tried using it, but it's just not functional. Very frustrating.",2023-08-08,tried using not functional frustrating,5,2023,8,Tuesday,-0.4,Negative
+694,645,290,"It's a decent product, but it doesn't offer the best value for the price.",2024-05-03,decent product not offer best value price,7,2024,5,Friday,0.5833333333333334,Positive
+695,314,255,"I tried to get support, but they never helped. The product is just bad.",2023-07-30,tried get support never helped product bad,7,2023,7,Sunday,-0.6999999999999998,Negative
+696,999,283,The product arrived damaged and the customer service was terrible.,2023-08-05,product arrived damaged customer service terrible,6,2023,8,Saturday,-1.0,Negative
+697,688,299,"It's good, but I was hoping for a bit more in terms of performance.",2024-03-20,good hoping bit terms performance,5,2024,3,Wednesday,0.7,Positive
+698,921,234,"Customer service was unhelpful, and the product is subpar.",2024-01-26,customer service unhelpful product subpar,5,2024,1,Friday,0.0,Neutral
+699,378,262,Great performance and easy to use. I'm very satisfied with this product.,2024-01-26,great performance easy use satisfied product,6,2024,1,Friday,0.5777777777777778,Positive
+700,248,259,Very disappointed with my purchase. The product is useless.,2024-02-05,disappointed purchase product useless,4,2024,2,Monday,-0.625,Negative
+701,927,208,"Excellent quality, great design, and super easy to use.",2023-11-18,excellent quality great design super easy use,7,2023,11,Saturday,0.6416666666666666,Positive
+702,238,251,Very poor quality. It's already falling apart after a few weeks of use.,2023-08-14,poor quality already falling apart weeks use,7,2023,8,Monday,-0.4,Negative
+703,182,241,Great performance and easy to use. I'm very satisfied with this product.,2023-09-16,great performance easy use satisfied product,6,2023,9,Saturday,0.5777777777777778,Positive
+704,513,258,The product is not durable at all. It started malfunctioning right away.,2023-10-16,product not durable started malfunctioning right away,7,2023,10,Monday,0.2857142857142857,Positive
+705,733,241,The product does not match the description. Avoid this seller.,2024-02-28,product not match description avoid seller,6,2024,2,Wednesday,0.0,Neutral
+706,415,274,So impressed by the quality. This product truly delivers.,2024-05-21,impressed quality product truly delivers,5,2024,5,Tuesday,1.0,Positive
+707,368,288,Extremely disappointed with this product. Not recommended.,2023-08-06,extremely disappointed product not recommended,5,2023,8,Sunday,-0.75,Negative
+708,839,211,"It's okay for basic use, but I wouldn't recommend it for anything more.",2024-03-15,okay basic use would not recommend anything,7,2024,3,Friday,0.25,Positive
+709,936,240,"It serves its purpose, but it's not anything extraordinary.",2024-04-05,serves purpose not anything extraordinary,5,2024,4,Friday,0.3333333333333333,Positive
+710,728,223,The product was defective when I received it. Very disappointing.,2024-02-18,product defective received disappointing,4,2024,2,Sunday,-0.6,Negative
+711,893,210,I'm very happy with the performance. It does exactly what I need.,2023-12-28,happy performance exactly need,4,2023,12,Thursday,0.525,Positive
+712,944,291,The product was defective when I received it. Very disappointing.,2024-01-01,product defective received disappointing,4,2024,1,Monday,-0.6,Negative
+713,451,204,I'm amazed by how well it works. Great value for the price!,2023-08-05,amazed well works great value price,6,2023,8,Saturday,0.8,Positive
+714,163,261,Best investment I've made in a long time. Very happy with my purchase.,2023-12-03,best investment made long time happy purchase,7,2023,12,Sunday,0.5833333333333334,Positive
+715,268,227,Everything about this product is great! It works as advertised and more.,2023-10-29,everything product great works advertised,5,2023,10,Sunday,0.8,Positive
+716,485,273,"The product works as expected, but it's nothing special.",2023-10-20,product works expected nothing special,5,2023,10,Friday,0.12857142857142856,Positive
+717,330,241,"The product is okay, just nothing special to make it stand out.",2024-01-30,product okay nothing special make stand,6,2024,1,Tuesday,0.4285714285714286,Positive
+718,219,219,This doesn't even deserve one star. Completely useless and unreliable.,2024-02-10,not even deserve one star completely useless unreliable,8,2024,2,Saturday,-0.5,Negative
+719,427,297,"It's decent, though I expected a little more.",2024-01-05,decent though expected little,4,2024,1,Friday,-0.04027777777777778,Neutral
+720,203,288,This product does exactly what I wanted it to do. Very pleased.,2023-12-28,product exactly wanted pleased,4,2023,12,Thursday,0.375,Positive
+721,397,229,"I love this item. It's sturdy, functional, and well-made.",2023-12-18,love item sturdy functional well made,6,2023,12,Monday,0.5,Positive
+722,470,237,Not worth the hype. It's poorly made and doesn't function well.,2024-01-30,not worth hype poorly made not function well,8,2024,1,Tuesday,-0.275,Negative
+723,436,250,Great product and excellent customer support. Totally worth it!,2023-07-09,great product excellent customer support totally worth,7,2023,7,Sunday,0.7000000000000001,Positive
+724,430,271,"It's acceptable, but I don't have any strong feelings about it.",2024-04-07,acceptable not strong feelings,4,2024,4,Sunday,-0.21666666666666665,Negative
+725,241,279,"It works so well, and it's exactly what I needed for my project.",2024-05-13,works well exactly needed project,5,2024,5,Monday,0.25,Positive
+726,681,225,"Not bad, but there's room for improvement in some areas.",2024-02-23,not bad room improvement areas,5,2024,2,Friday,0.3499999999999999,Positive
+727,469,204,Worth every penny! Amazing quality and service.,2024-02-21,worth every penny amazing quality service,6,2024,2,Wednesday,0.45000000000000007,Positive
+728,499,277,This doesn't even deserve one star. Completely useless and unreliable.,2024-02-04,not even deserve one star completely useless unreliable,8,2024,2,Sunday,-0.5,Negative
+729,713,291,"The product is fine, but it lacks the features I was hoping for.",2024-03-16,product fine lacks features hoping,5,2024,3,Saturday,0.4166666666666667,Positive
+730,391,201,"Customer service was unhelpful, and the product is subpar.",2023-07-15,customer service unhelpful product subpar,5,2023,7,Saturday,0.0,Neutral
+731,700,267,I'm amazed by how well it works. Great value for the price!,2023-08-30,amazed well works great value price,6,2023,8,Wednesday,0.8,Positive
+732,952,216,"Fantastic quality, and the performance is just amazing. Highly recommend!",2024-02-06,fantastic quality performance amazing highly recommend,6,2024,2,Tuesday,0.38666666666666666,Positive
+733,672,248,This product has exceeded all my expectations. Very satisfied.,2023-09-05,product exceeded expectations satisfied,4,2023,9,Tuesday,0.5,Positive
+734,234,280,The quality and performance of this product are top-notch.,2023-11-18,quality performance product top notch,5,2023,11,Saturday,0.5,Positive
+735,964,231,I'm really impressed with the quality and the results. 10/10!,2023-12-21,really impressed quality results,4,2023,12,Thursday,1.0,Positive
+736,603,221,The product does exactly what it's supposed to do. Very happy.,2024-02-10,product exactly supposed happy,4,2024,2,Saturday,0.525,Positive
+737,303,252,"It's okay overall, but I expected a bit more based on the reviews.",2023-12-07,okay overall expected bit based reviews,6,2023,12,Thursday,0.13333333333333333,Positive
+738,297,296,This product has made my daily routine so much easier. Highly recommend.,2023-06-26,product made daily routine much easier highly recommend,8,2023,6,Monday,0.12,Positive
+739,812,214,"It didn't work from the start, and I'm very upset with the quality.",2023-08-04,not work start upset quality,5,2023,8,Friday,0.0,Neutral
+740,285,299,I'm really impressed with the quality and the results. 10/10!,2024-04-04,really impressed quality results,4,2024,4,Thursday,1.0,Positive
+741,837,289,"It broke within a few days of use, and customer service didn't help at all.",2023-08-14,broke within days use customer service not help,8,2023,8,Monday,0.0,Neutral
+742,569,229,"The quality is fine, but I've seen better products at this price.",2024-05-27,quality fine seen better products price,6,2024,5,Monday,0.45833333333333337,Positive
+743,972,264,I don't recommend this at all. It's not functional and doesn't last.,2023-10-16,not recommend not functional not last,6,2023,10,Monday,0.0,Neutral
+744,199,260,"I have mixed feelings. It's fine, but I was expecting a bit more.",2024-04-09,mixed feelings fine expecting bit,5,2024,4,Tuesday,0.20833333333333334,Positive
+745,487,263,This product has exceeded all my expectations. I'm thrilled with it.,2024-02-25,product exceeded expectations thrilled,4,2024,2,Sunday,0.6,Positive
+746,645,280,I tried it once and it didn't work at all. Wouldn't recommend to anyone.,2024-06-21,tried not work would not recommend anyone,7,2024,6,Friday,0.0,Neutral
+747,611,256,The product does exactly what it's supposed to do. Very happy.,2023-09-06,product exactly supposed happy,4,2023,9,Wednesday,0.525,Positive
+748,741,282,"It's functional, but I don't feel strongly about it either way.",2024-02-29,functional not feel strongly either way,6,2024,2,Thursday,0.4333333333333333,Positive
+749,666,200,"The quality is fine, but I've seen better products at this price.",2023-10-09,quality fine seen better products price,6,2023,10,Monday,0.45833333333333337,Positive
+750,729,257,Very high-quality product. I would buy it again without hesitation.,2023-12-06,high quality product would buy without hesitation,7,2023,12,Wednesday,0.16,Positive
+751,832,292,This is exactly what I was looking for. I'm so glad I bought it!,2024-01-16,exactly looking glad bought,4,2024,1,Tuesday,0.375,Positive
+752,763,280,The item broke after a few days of use. Not happy at all.,2023-09-29,item broke days use not happy,6,2023,9,Friday,-0.4,Negative
+753,486,248,This product is absolutely amazing. I'm recommending it to all my friends.,2024-03-05,product absolutely amazing recommending friends,5,2024,3,Tuesday,0.6000000000000001,Positive
+754,744,235,I'm really impressed with the quality and the results. 10/10!,2023-09-16,really impressed quality results,4,2023,9,Saturday,1.0,Positive
+755,683,238,The quality and performance of this product are top-notch.,2024-01-25,quality performance product top notch,5,2024,1,Thursday,0.5,Positive
+756,380,250,I'm very happy with the performance. It does exactly what I need.,2023-11-26,happy performance exactly need,4,2023,11,Sunday,0.525,Positive
+757,123,200,I regret buying this. The product is ineffective and badly made.,2024-03-03,regret buying product ineffective badly made,6,2024,3,Sunday,-0.6999999999999998,Negative
+758,700,220,This product is terrible. It broke after the second use and didn't perform as expected.,2024-04-01,product terrible broke second use not perform expected,8,2024,4,Monday,-0.3666666666666667,Negative
+759,470,252,This product has exceeded all my expectations. I'm thrilled with it.,2024-01-31,product exceeded expectations thrilled,4,2024,1,Wednesday,0.6,Positive
+760,280,283,This is the worst item I've ever bought. I wish I could return it.,2024-02-25,worst item ever bought wish could return,7,2024,2,Sunday,-1.0,Negative
+761,966,291,"This item is exactly as described, and it works beautifully!",2023-11-04,item exactly described works beautifully,5,2023,11,Saturday,0.55,Positive
+762,570,298,Wonderful product! The quality and performance are unmatched.,2024-03-28,wonderful product quality performance unmatched,5,2024,3,Thursday,1.0,Positive
+763,684,280,"It's acceptable, but I don't have any strong feelings about it.",2024-02-26,acceptable not strong feelings,4,2024,2,Monday,-0.21666666666666665,Negative
+764,336,283,Very high-quality product. I would buy it again without hesitation.,2023-09-26,high quality product would buy without hesitation,7,2023,9,Tuesday,0.16,Positive
+765,734,229,I couldn't be happier with my purchase. It's perfect for what I needed.,2023-08-07,could not happier purchase perfect needed,6,2023,8,Monday,1.0,Positive
+766,187,271,Impressed with the durability and performance of this product.,2024-01-16,impressed durability performance product,4,2024,1,Tuesday,1.0,Positive
+767,771,261,"It works fine, but I had expected a bit more for the price.",2023-08-19,works fine expected bit price,5,2023,8,Saturday,0.15833333333333333,Positive
+768,616,298,"It's okay overall, but I expected a bit more based on the reviews.",2024-01-05,okay overall expected bit based reviews,6,2024,1,Friday,0.13333333333333333,Positive
+769,434,246,This has been one of the best purchases I've made. Highly recommended!,2024-05-10,one best purchases made highly recommended,6,2024,5,Friday,0.58,Positive
+770,551,258,I couldn't be more pleased with this purchase. It works perfectly!,2023-12-10,could not pleased purchase works perfectly,6,2023,12,Sunday,0.375,Positive
+771,254,251,This has been one of the best purchases I've made. Highly recommended!,2024-04-07,one best purchases made highly recommended,6,2024,4,Sunday,0.58,Positive
+772,669,282,This is one of the best products I've bought in a long time.,2023-09-21,one best products bought long time,6,2023,9,Thursday,0.475,Positive
+773,460,296,Impressed with the durability and performance of this product.,2024-04-17,impressed durability performance product,4,2024,4,Wednesday,1.0,Positive
+774,591,253,"The product arrived on time, but it's just alright.",2023-07-25,product arrived time alright,4,2023,7,Tuesday,0.0,Neutral
+775,954,291,I absolutely love this! It's even better than I expected.,2024-04-13,absolutely love even better expected,5,2024,4,Saturday,0.3,Positive
+776,232,263,"I love this item. It's sturdy, functional, and well-made.",2023-08-20,love item sturdy functional well made,6,2023,8,Sunday,0.5,Positive
+777,804,225,"It's fine for casual use, but I wouldn't use it for anything heavy.",2023-07-25,fine casual use would not use anything heavy,8,2023,7,Tuesday,-0.09444444444444448,Neutral
+778,365,257,Impressed with the durability and performance of this product.,2023-07-22,impressed durability performance product,4,2023,7,Saturday,1.0,Positive
+779,203,221,I regret buying this. The product is ineffective and badly made.,2023-12-10,regret buying product ineffective badly made,6,2023,12,Sunday,-0.6999999999999998,Negative
+780,302,210,"It's functional, but I don't feel strongly about it either way.",2024-06-25,functional not feel strongly either way,6,2024,6,Tuesday,0.4333333333333333,Positive
+781,803,299,This product is absolutely amazing. I'm recommending it to all my friends.,2023-10-02,product absolutely amazing recommending friends,5,2023,10,Monday,0.6000000000000001,Positive
+782,972,236,This product is absolutely amazing. I'm recommending it to all my friends.,2024-01-11,product absolutely amazing recommending friends,5,2024,1,Thursday,0.6000000000000001,Positive
+783,409,258,"It's functional, but I don't feel strongly about it either way.",2023-08-04,functional not feel strongly either way,6,2023,8,Friday,0.4333333333333333,Positive
+784,622,232,"The quality is fine, but I've seen better products at this price.",2024-03-20,quality fine seen better products price,6,2024,3,Wednesday,0.45833333333333337,Positive
+785,594,213,"I can't say it's amazing, but it does what I need it to do.",2023-09-17,cannot say amazing need,4,2023,9,Sunday,0.6000000000000001,Positive
+786,910,211,"It's a decent product for the price, though there are better alternatives.",2024-03-02,decent product price though better alternatives,6,2024,3,Saturday,0.3333333333333333,Positive
+787,429,279,The product does exactly what it's supposed to do. Very happy.,2024-02-07,product exactly supposed happy,4,2024,2,Wednesday,0.525,Positive
+788,703,242,This is one of the best products I've bought in a long time.,2024-02-26,one best products bought long time,6,2024,2,Monday,0.475,Positive
+789,170,298,Top-notch customer service and a reliable product. Great job!,2023-07-15,top notch customer service reliable product great job,8,2023,7,Saturday,0.65,Positive
+790,564,208,"It's not great, but it's not bad either. It's somewhere in between.",2024-03-31,not great not bad either somewhere,6,2024,3,Sunday,-0.02500000000000005,Neutral
+791,218,214,"It works so well, and it's exactly what I needed for my project.",2023-09-12,works well exactly needed project,5,2023,9,Tuesday,0.25,Positive
+792,792,242,Worth every penny! Amazing quality and service.,2024-01-04,worth every penny amazing quality service,6,2024,1,Thursday,0.45000000000000007,Positive
+793,628,258,"It's a basic product. Works, but no wow factor.",2023-11-15,basic product works no wow factor,6,2023,11,Wednesday,-0.025,Neutral
+794,655,289,"I love this item. It's sturdy, functional, and well-made.",2023-11-05,love item sturdy functional well made,6,2023,11,Sunday,0.5,Positive
+795,488,295,"I was hoping for something better, but this item is completely useless.",2023-11-13,hoping something better item completely useless,6,2023,11,Monday,0.0,Neutral
+796,681,279,Works perfectly! Totally exceeded my expectations in terms of performance.,2024-02-28,works perfectly totally exceeded expectations terms performance,7,2024,2,Wednesday,0.0,Neutral
+797,929,267,"It works fine, but I had expected a bit more for the price.",2024-06-13,works fine expected bit price,5,2024,6,Thursday,0.15833333333333333,Positive
+798,739,249,I'm very unhappy with this purchase. It didn't meet my expectations.,2023-11-30,unhappy purchase not meet expectations,5,2023,11,Thursday,-0.6,Negative
+799,810,242,"It works, but I've had better products for the same price.",2023-09-10,works better products price,4,2023,9,Sunday,0.5,Positive
+800,458,229,"The product functions well, but I feel it could be improved in some areas.",2023-12-11,product functions well feel could improved areas,7,2023,12,Monday,0.0,Neutral
+801,672,216,"I can't say it's amazing, but it does what I need it to do.",2023-10-25,cannot say amazing need,4,2023,10,Wednesday,0.6000000000000001,Positive
+802,811,226,This product is a game-changer. I'm so glad I bought it.,2024-06-18,product game changer glad bought,5,2024,6,Tuesday,0.04999999999999999,Neutral
+803,236,220,I absolutely love this product! It exceeded my expectations in every way.,2023-11-01,absolutely love product exceeded expectations every way,7,2023,11,Wednesday,0.5,Positive
+804,444,253,Wonderful product! The quality and performance are unmatched.,2023-07-30,wonderful product quality performance unmatched,5,2023,7,Sunday,1.0,Positive
+805,891,288,So impressed by the quality. This product truly delivers.,2023-09-13,impressed quality product truly delivers,5,2023,9,Wednesday,1.0,Positive
+806,486,292,I couldn't be happier with my purchase. It's perfect for what I needed.,2023-07-13,could not happier purchase perfect needed,6,2023,7,Thursday,1.0,Positive
+807,493,237,"It's functional, but I'm not blown away by it.",2024-04-20,functional not blown away,4,2024,4,Saturday,0.0,Neutral
+808,119,294,The quality and performance of this product are top-notch.,2023-10-13,quality performance product top notch,5,2023,10,Friday,0.5,Positive
+809,866,214,It's sufficient for basic needs but could be better.,2023-12-08,sufficient basic needs could better,5,2023,12,Friday,0.25,Positive
+810,754,296,The product arrived damaged and the customer service was terrible.,2024-04-07,product arrived damaged customer service terrible,6,2024,4,Sunday,-1.0,Negative
+811,723,215,"Fantastic quality, and the performance is just amazing. Highly recommend!",2024-06-18,fantastic quality performance amazing highly recommend,6,2024,6,Tuesday,0.38666666666666666,Positive
+812,424,290,Top-notch customer service and a reliable product. Great job!,2023-11-25,top notch customer service reliable product great job,8,2023,11,Saturday,0.65,Positive
+813,385,251,"Nothing to complain about, but nothing extraordinary either.",2023-11-02,nothing complain nothing extraordinary either,5,2023,11,Thursday,0.3333333333333333,Positive
+814,951,278,"It's an okay product, but there are some issues I have with it.",2023-10-07,okay product issues,3,2023,10,Saturday,0.5,Positive
+815,344,297,I don't recommend this at all. It's not functional and doesn't last.,2023-07-17,not recommend not functional not last,6,2023,7,Monday,0.0,Neutral
+816,276,232,This is exactly what I was looking for. I'm so glad I bought it!,2023-08-13,exactly looking glad bought,4,2023,8,Sunday,0.375,Positive
+817,747,201,"Not bad, but there's room for improvement in some areas.",2023-12-20,not bad room improvement areas,5,2023,12,Wednesday,0.3499999999999999,Positive
+818,596,261,I regret buying this. The product is ineffective and badly made.,2023-09-11,regret buying product ineffective badly made,6,2023,9,Monday,-0.6999999999999998,Negative
+819,661,252,"It works fine for now, but I'm not sure about its long-term durability.",2024-02-04,works fine not sure long term durability,7,2024,2,Sunday,0.038888888888888896,Neutral
+820,490,252,"It's functional, but it's not a must-have product.",2023-10-07,functional not must product,4,2023,10,Saturday,0.0,Neutral
+821,316,281,"I've been using this for a few weeks now, and it works flawlessly.",2024-06-12,using weeks works flawlessly,4,2024,6,Wednesday,1.0,Positive
+822,734,273,"I thought this would be better, but it turned out to be a huge disappointment.",2024-01-10,thought would better turned huge disappointment,6,2024,1,Wednesday,0.10000000000000005,Positive
+823,380,237,I absolutely love this product! It exceeded my expectations in every way.,2024-02-11,absolutely love product exceeded expectations every way,7,2024,2,Sunday,0.5,Positive
+824,868,231,The quality is outstanding. I'm extremely impressed.,2023-10-25,quality outstanding extremely impressed,4,2023,10,Wednesday,0.75,Positive
+825,908,208,"Not good at all. The quality is very poor, and I'm disappointed.",2023-11-17,not good quality poor disappointed,5,2023,11,Friday,-0.5,Negative
+826,410,282,"Great design, easy to use, and it works wonderfully. Highly recommend!",2024-04-13,great design easy use works wonderfully highly recommend,8,2024,4,Saturday,0.46444444444444444,Positive
+827,977,228,"Excellent quality, great design, and super easy to use.",2023-07-08,excellent quality great design super easy use,7,2023,7,Saturday,0.6416666666666666,Positive
+828,215,299,"I've used it a few times and it works, but it's not impressive.",2024-06-11,used times works not impressive,5,2024,6,Tuesday,-0.5,Negative
+829,238,279,"The customer service was fantastic, and the product arrived on time.",2023-12-06,customer service fantastic product arrived time,6,2023,12,Wednesday,0.4,Positive
+830,434,220,This is hands down the best purchase I've made this year.,2023-09-09,hands best purchase made year,5,2023,9,Saturday,1.0,Positive
+831,992,224,I've been using it for a while now and it's performing perfectly.,2024-06-19,using performing perfectly,3,2024,6,Wednesday,1.0,Positive
+832,804,280,"It works, but it doesn't feel like a high-end product.",2024-01-10,works not feel like high end product,7,2024,1,Wednesday,0.16,Positive
+833,234,201,"It's functional, but I'm not convinced it's the best choice for this price.",2023-11-19,functional not convinced best choice price,6,2023,11,Sunday,1.0,Positive
+834,555,252,Perfect fit for my needs. Will definitely order again.,2024-06-21,perfect fit needs definitely order,5,2024,6,Friday,0.4666666666666666,Positive
+835,191,273,Best investment I've made in a long time. Very happy with my purchase.,2023-08-09,best investment made long time happy purchase,7,2023,8,Wednesday,0.5833333333333334,Positive
+836,577,298,The product does not match the description. Avoid this seller.,2023-12-03,product not match description avoid seller,6,2023,12,Sunday,0.0,Neutral
+837,771,231,I've been using it for a while now and it's performing perfectly.,2023-07-06,using performing perfectly,3,2023,7,Thursday,1.0,Positive
+838,994,252,So impressed by the quality. This product truly delivers.,2023-09-23,impressed quality product truly delivers,5,2023,9,Saturday,1.0,Positive
+839,304,272,I'm amazed by how well it works. Great value for the price!,2024-06-19,amazed well works great value price,6,2024,6,Wednesday,0.8,Positive
+840,647,275,This has made my life so much easier. I highly recommend it!,2024-06-10,made life much easier highly recommend,6,2024,6,Monday,0.18,Positive
+841,147,285,Wonderful product! The quality and performance are unmatched.,2024-05-13,wonderful product quality performance unmatched,5,2024,5,Monday,1.0,Positive
+842,411,293,Perfect product for my needs! I can't imagine using anything else now.,2023-11-09,perfect product needs cannot imagine using anything else,8,2023,11,Thursday,1.0,Positive
+843,816,248,The quality is outstanding. I'm extremely impressed.,2024-04-17,quality outstanding extremely impressed,4,2024,4,Wednesday,0.75,Positive
+844,530,248,Great product and excellent customer support. Totally worth it!,2024-06-15,great product excellent customer support totally worth,7,2024,6,Saturday,0.7000000000000001,Positive
+845,870,224,The product is okay but nothing too special.,2024-03-16,product okay nothing special,4,2024,3,Saturday,0.4285714285714286,Positive
+846,998,298,This is hands down the best purchase I've made this year.,2024-04-15,hands best purchase made year,5,2024,4,Monday,1.0,Positive
+847,784,279,"Nothing to complain about, but nothing extraordinary either.",2024-03-17,nothing complain nothing extraordinary either,5,2024,3,Sunday,0.3333333333333333,Positive
+848,903,245,"It works as advertised, but it's not particularly impressive.",2023-07-13,works advertised not particularly impressive,5,2023,7,Thursday,-0.5,Negative
+849,677,286,This product is absolutely amazing. I'm recommending it to all my friends.,2024-04-02,product absolutely amazing recommending friends,5,2024,4,Tuesday,0.6000000000000001,Positive
+850,477,299,This product has exceeded all my expectations. Very satisfied.,2023-06-28,product exceeded expectations satisfied,4,2023,6,Wednesday,0.5,Positive
+851,907,280,Very sleek design and works just as advertised. Love it!,2024-05-17,sleek design works advertised love,5,2024,5,Friday,0.5,Positive
+852,186,211,I've had a wonderful experience with this product. Definitely recommend it!,2024-02-03,wonderful experience product definitely recommend,5,2024,2,Saturday,0.5,Positive
+853,759,201,"I have mixed feelings. It's fine, but I was expecting a bit more.",2024-02-05,mixed feelings fine expecting bit,5,2024,2,Monday,0.20833333333333334,Positive
+854,314,251,"I have no complaints, but I don't have any praise for it either.",2023-06-27,no complaints not praise either,5,2023,6,Tuesday,0.0,Neutral
+855,909,201,"The product is awful. It doesn't work as it should, and it's frustrating to use.",2024-05-12,product awful not work frustrating use,6,2024,5,Sunday,-0.7,Negative
+856,370,292,"I tried using it, but it's just not functional. Very frustrating.",2024-04-04,tried using not functional frustrating,5,2024,4,Thursday,-0.4,Negative
+857,277,205,Everything about this product is perfect. So happy with it!,2023-12-11,everything product perfect happy,4,2023,12,Monday,0.9,Positive
+858,180,260,Very high-quality product. I would buy it again without hesitation.,2024-05-03,high quality product would buy without hesitation,7,2024,5,Friday,0.16,Positive
+859,556,242,Worth every penny! Amazing quality and service.,2024-06-01,worth every penny amazing quality service,6,2024,6,Saturday,0.45000000000000007,Positive
+860,499,206,Terrible experience. The product doesn't perform well at all.,2023-07-23,terrible experience product not perform well,6,2023,7,Sunday,-1.0,Negative
+861,459,287,This is hands down the best purchase I've made this year.,2023-07-05,hands best purchase made year,5,2023,7,Wednesday,1.0,Positive
+862,366,208,"The product is decent, but I've come across better quality.",2024-01-10,product decent come across better quality,6,2024,1,Wednesday,0.3333333333333333,Positive
+863,546,248,"I had high hopes for this, but it was a total letdown.",2023-10-26,high hopes total letdown,4,2023,10,Thursday,0.08,Neutral
+864,591,232,It broke within a few days of use. Terrible quality!,2024-02-25,broke within days use terrible quality,6,2024,2,Sunday,-1.0,Negative
+865,812,212,The quality and performance of this product are top-notch.,2024-04-29,quality performance product top notch,5,2024,4,Monday,0.5,Positive
+866,765,289,This product is a game-changer. I'm so glad I bought it.,2023-09-30,product game changer glad bought,5,2023,9,Saturday,0.04999999999999999,Neutral
+867,277,205,I've had a wonderful experience with this product. Definitely recommend it!,2023-07-04,wonderful experience product definitely recommend,5,2023,7,Tuesday,0.5,Positive
+868,617,289,"It's acceptable, but I don't have any strong feelings about it.",2024-01-24,acceptable not strong feelings,4,2024,1,Wednesday,-0.21666666666666665,Negative
+869,518,204,"I tried using it, but it's just not functional. Very frustrating.",2023-06-27,tried using not functional frustrating,5,2023,6,Tuesday,-0.4,Negative
+870,260,291,Excellent quality and fast shipping. Very happy with it.,2024-01-14,excellent quality fast shipping happy,5,2024,1,Sunday,0.6666666666666666,Positive
+871,740,208,I regret buying this. The product is ineffective and badly made.,2024-05-14,regret buying product ineffective badly made,6,2024,5,Tuesday,-0.6999999999999998,Negative
+872,163,266,I don't recommend this at all. It's not functional and doesn't last.,2023-07-01,not recommend not functional not last,6,2023,7,Saturday,0.0,Neutral
+873,826,203,I've had better products for less money. This one is definitely not worth it.,2024-03-29,better products less money one definitely not worth,8,2024,3,Friday,0.06111111111111112,Neutral
+874,902,259,"The product is okay, just nothing special to make it stand out.",2023-10-07,product okay nothing special make stand,6,2023,10,Saturday,0.4285714285714286,Positive
+875,796,296,I've been using it for a while now and it's performing perfectly.,2023-12-07,using performing perfectly,3,2023,12,Thursday,1.0,Positive
+876,569,242,This product has exceeded all my expectations. Very satisfied.,2023-10-18,product exceeded expectations satisfied,4,2023,10,Wednesday,0.5,Positive
+877,523,230,"It works well, but there's nothing exciting about it.",2023-07-19,works well nothing exciting,4,2023,7,Wednesday,0.3,Positive
+878,508,294,Everything about this product is great! It works as advertised and more.,2023-07-26,everything product great works advertised,5,2023,7,Wednesday,0.8,Positive
+879,167,256,I am extremely satisfied with my purchase. Worth every penny!,2023-10-29,extremely satisfied purchase worth every penny,6,2023,10,Sunday,0.4,Positive
+880,493,226,"It's fine, but it doesn't exceed the expectations set by the description.",2023-09-14,fine not exceed expectations set description,6,2023,9,Thursday,0.4166666666666667,Positive
+881,123,296,I absolutely love this! It's even better than I expected.,2024-02-08,absolutely love even better expected,5,2024,2,Thursday,0.3,Positive
+882,458,247,Terrible experience. The product doesn't perform well at all.,2023-12-10,terrible experience product not perform well,6,2023,12,Sunday,-1.0,Negative
+883,747,208,"It's okay overall, but I expected a bit more based on the reviews.",2024-05-09,okay overall expected bit based reviews,6,2024,5,Thursday,0.13333333333333333,Positive
+884,629,259,"The product arrived on time, but it's just alright.",2023-06-30,product arrived time alright,4,2023,6,Friday,0.0,Neutral
+885,302,231,The product does exactly what it's supposed to do. Very happy.,2024-05-20,product exactly supposed happy,4,2024,5,Monday,0.525,Positive
+886,375,204,"I was expecting something better, but this product is just average.",2023-10-29,expecting something better product average,5,2023,10,Sunday,0.175,Positive
+887,941,267,This product has made my daily routine so much easier. Highly recommend.,2023-08-16,product made daily routine much easier highly recommend,8,2023,8,Wednesday,0.12,Positive
+888,772,257,I'm frustrated with this product. It's not what I hoped for at all.,2023-10-14,frustrated product not hoped,4,2023,10,Saturday,-0.7,Negative
+889,258,222,"I love this item. It's sturdy, functional, and well-made.",2023-09-29,love item sturdy functional well made,6,2023,9,Friday,0.5,Positive
+890,686,246,"It broke within a few days of use, and customer service didn't help at all.",2023-10-18,broke within days use customer service not help,8,2023,10,Wednesday,0.0,Neutral
+891,656,278,It's easy to use and super efficient. I'm so glad I bought it.,2023-11-29,easy use super efficient glad bought,6,2023,11,Wednesday,0.4222222222222222,Positive
+892,551,250,"It's acceptable, but I don't have any strong feelings about it.",2023-06-28,acceptable not strong feelings,4,2023,6,Wednesday,-0.21666666666666665,Negative
+893,481,256,"The instructions were unclear, and it doesn't work as advertised.",2023-10-06,instructions unclear not work advertised,5,2023,10,Friday,0.0,Neutral
+894,493,292,"Fantastic quality, and the performance is just amazing. Highly recommend!",2024-02-17,fantastic quality performance amazing highly recommend,6,2024,2,Saturday,0.38666666666666666,Positive
+895,970,277,"It works, but it doesn't feel like a high-end product.",2023-12-21,works not feel like high end product,7,2023,12,Thursday,0.16,Positive
+896,891,256,I can't believe I wasted my money on this. It's not worth it.,2024-06-09,cannot believe wasted money not worth,6,2024,6,Sunday,-0.175,Negative
+897,577,268,"It's not bad, but I wouldn't say it's great either.",2024-04-16,not bad would not say great either,7,2024,4,Tuesday,0.575,Positive
+898,490,263,Wonderful product! The quality and performance are unmatched.,2023-10-17,wonderful product quality performance unmatched,5,2023,10,Tuesday,1.0,Positive
+899,716,285,Fantastic experience from start to finish. Highly recommend!,2024-05-10,fantastic experience start finish highly recommend,6,2024,5,Friday,0.28,Positive
+900,492,255,The product is just fine. Doesn't stand out in any way.,2023-11-24,product fine not stand way,5,2023,11,Friday,0.4166666666666667,Positive
+901,633,298,This product is a game-changer. I'm so glad I bought it.,2023-10-06,product game changer glad bought,5,2023,10,Friday,0.04999999999999999,Neutral
+902,553,240,The product is functional but doesn't offer anything exciting.,2024-02-16,product functional not offer anything exciting,6,2024,2,Friday,0.3,Positive
+903,286,241,Very disappointing. I expected much more for the price I paid.,2023-08-14,disappointing expected much price paid,5,2023,8,Monday,-0.16666666666666666,Negative
+904,682,222,"Not bad, but there's room for improvement in some areas.",2024-05-11,not bad room improvement areas,5,2024,5,Saturday,0.3499999999999999,Positive
+905,805,298,I've never been this satisfied with a purchase before.,2023-11-21,never satisfied purchase,3,2023,11,Tuesday,-0.25,Negative
+906,950,211,"Not bad, but there's room for improvement in some areas.",2023-08-17,not bad room improvement areas,5,2023,8,Thursday,0.3499999999999999,Positive
+907,733,260,"I was hoping for something better, but this item is completely useless.",2024-03-01,hoping something better item completely useless,6,2024,3,Friday,0.0,Neutral
+908,768,223,Completely useless. It doesn't do what it says on the box.,2023-09-09,completely useless not says box,5,2023,9,Saturday,-0.5,Negative
+909,555,217,"I don't hate it, but I don't love it either. It's just average.",2023-07-31,not hate not love either average,6,2023,7,Monday,9.25185853854297e-18,Neutral
+910,465,296,"It's a decent product, but it doesn't offer the best value for the price.",2024-04-20,decent product not offer best value price,7,2024,4,Saturday,0.5833333333333334,Positive
+911,891,209,I'm really impressed with the quality and the results. 10/10!,2024-04-21,really impressed quality results,4,2024,4,Sunday,1.0,Positive
+912,107,240,"I can't say it's amazing, but it does what I need it to do.",2024-05-13,cannot say amazing need,4,2024,5,Monday,0.6000000000000001,Positive
+913,953,275,The product functions as expected but isn't remarkable.,2023-07-27,product functions expected not remarkable,5,2023,7,Thursday,-0.2375,Negative
+914,594,225,This has made my life so much easier. I highly recommend it!,2024-06-17,made life much easier highly recommend,6,2024,6,Monday,0.18,Positive
+915,677,220,"It's an okay product, but there are some issues I have with it.",2023-12-17,okay product issues,3,2023,12,Sunday,0.5,Positive
+916,120,250,Everything about this product is perfect. So happy with it!,2023-09-20,everything product perfect happy,4,2023,9,Wednesday,0.9,Positive
+917,943,225,I've never been this satisfied with a purchase before.,2024-05-31,never satisfied purchase,3,2024,5,Friday,-0.25,Negative
+918,723,215,"It works so well, and it's exactly what I needed for my project.",2024-01-11,works well exactly needed project,5,2024,1,Thursday,0.25,Positive
+919,910,207,"It's good enough to keep, but I'm not excited about it.",2023-09-25,good enough keep not excited,5,2023,9,Monday,0.1708333333333333,Positive
+920,443,207,I couldn't be more pleased with this purchase. It works perfectly!,2024-06-10,could not pleased purchase works perfectly,6,2024,6,Monday,0.375,Positive
+921,682,252,This product is absolutely amazing. I'm recommending it to all my friends.,2023-08-10,product absolutely amazing recommending friends,5,2023,8,Thursday,0.6000000000000001,Positive
+922,777,229,"The product is good for the price, but there are some minor flaws.",2023-10-17,product good price minor flaws,5,2023,10,Tuesday,0.32499999999999996,Positive
+923,646,241,The product functions as expected but isn't remarkable.,2024-01-08,product functions expected not remarkable,5,2024,1,Monday,-0.2375,Negative
+924,367,278,"It's okay overall, but I expected a bit more based on the reviews.",2023-10-21,okay overall expected bit based reviews,6,2023,10,Saturday,0.13333333333333333,Positive
+925,598,298,I've never been this satisfied with a purchase before.,2023-07-14,never satisfied purchase,3,2023,7,Friday,-0.25,Negative
+926,470,218,"It works, but I've had better products for the same price.",2023-08-13,works better products price,4,2023,8,Sunday,0.5,Positive
+927,703,231,"The product is decent, but I've come across better quality.",2023-10-06,product decent come across better quality,6,2023,10,Friday,0.3333333333333333,Positive
+928,585,202,Worth every penny! Amazing quality and service.,2024-05-10,worth every penny amazing quality service,6,2024,5,Friday,0.45000000000000007,Positive
+929,763,284,Great performance and easy to use. I'm very satisfied with this product.,2024-03-22,great performance easy use satisfied product,6,2024,3,Friday,0.5777777777777778,Positive
+930,439,219,"It's fine for casual use, but I wouldn't use it for anything heavy.",2023-07-21,fine casual use would not use anything heavy,8,2023,7,Friday,-0.09444444444444448,Neutral
+931,220,279,Completely useless. It doesn't do what it says on the box.,2023-09-15,completely useless not says box,5,2023,9,Friday,-0.5,Negative
+932,892,232,The product does exactly what it's supposed to do. Very happy.,2023-07-03,product exactly supposed happy,4,2023,7,Monday,0.525,Positive
+933,528,240,This is exactly what I was looking for. I'm so glad I bought it!,2024-05-13,exactly looking glad bought,4,2024,5,Monday,0.375,Positive
+934,331,283,This product does exactly what I wanted it to do. Very pleased.,2024-03-16,product exactly wanted pleased,4,2024,3,Saturday,0.375,Positive
+935,100,218,This product does exactly what I wanted it to do. Very pleased.,2024-03-27,product exactly wanted pleased,4,2024,3,Wednesday,0.375,Positive
+936,180,209,Excellent quality and fast shipping. Very happy with it.,2024-04-10,excellent quality fast shipping happy,5,2024,4,Wednesday,0.6666666666666666,Positive
+937,488,273,Impressed with the durability and performance of this product.,2024-06-10,impressed durability performance product,4,2024,6,Monday,1.0,Positive
+938,747,254,"This item is exactly as described, and it works beautifully!",2024-02-06,item exactly described works beautifully,5,2024,2,Tuesday,0.55,Positive
+939,672,298,Everything about this product is great! It works as advertised and more.,2023-12-18,everything product great works advertised,5,2023,12,Monday,0.8,Positive
+940,222,228,I couldn't be happier with my purchase. It's perfect for what I needed.,2023-10-28,could not happier purchase perfect needed,6,2023,10,Saturday,1.0,Positive
+941,178,258,This product didn't work as expected. It's unreliable and frustrating.,2023-08-16,product not work expected unreliable frustrating,6,2023,8,Wednesday,-0.25,Negative
+942,577,256,Such a fantastic product at a great price. Worth every cent!,2023-12-18,fantastic product great price worth every cent,7,2023,12,Monday,0.5000000000000001,Positive
+943,459,294,Very high-quality product. I would buy it again without hesitation.,2024-06-09,high quality product would buy without hesitation,7,2024,6,Sunday,0.16,Positive
+944,518,207,I absolutely love this product! It exceeded my expectations in every way.,2024-06-10,absolutely love product exceeded expectations every way,7,2024,6,Monday,0.5,Positive
+945,943,212,"The product is okay, just nothing special to make it stand out.",2023-08-27,product okay nothing special make stand,6,2023,8,Sunday,0.4285714285714286,Positive
+946,768,229,"The product is fine, but it lacks the features I was hoping for.",2023-11-22,product fine lacks features hoping,5,2023,11,Wednesday,0.4166666666666667,Positive
+947,393,285,The product is exactly what I was hoping for. I'm very satisfied.,2023-07-20,product exactly hoping satisfied,4,2023,7,Thursday,0.375,Positive
+948,430,213,"This item is exactly as described, and it works beautifully!",2023-11-19,item exactly described works beautifully,5,2023,11,Sunday,0.55,Positive
+949,591,284,"It's functional, but I'm not convinced it's the best choice for this price.",2024-01-09,functional not convinced best choice price,6,2024,1,Tuesday,1.0,Positive
+950,791,242,"It broke within a few days of use, and customer service didn't help at all.",2023-09-25,broke within days use customer service not help,8,2023,9,Monday,0.0,Neutral
+951,627,262,"It works so well, and it's exactly what I needed for my project.",2023-10-14,works well exactly needed project,5,2023,10,Saturday,0.25,Positive
+952,504,226,"The product does its job, but I expected something more impressive.",2024-01-26,product job expected something impressive,5,2024,1,Friday,0.45,Positive
+953,265,207,"It broke within a few days of use, and customer service didn't help at all.",2023-08-24,broke within days use customer service not help,8,2023,8,Thursday,0.0,Neutral
+954,262,294,Overpriced for what it offers. Very unhappy with my purchase.,2023-08-23,overpriced offers unhappy purchase,4,2023,8,Wednesday,-0.25,Negative
+955,950,274,This product has made my daily routine so much easier. Highly recommend.,2024-02-08,product made daily routine much easier highly recommend,8,2024,2,Thursday,0.12,Positive
+956,581,212,I've never been this satisfied with a purchase before.,2023-07-04,never satisfied purchase,3,2023,7,Tuesday,-0.25,Negative
+957,460,295,"It does the job, but I wasn't impressed by its performance.",2024-04-03,job not impressed performance,4,2024,4,Wednesday,-0.5,Negative
+958,678,249,I regret buying this. Save your money and look elsewhere.,2023-07-28,regret buying save money look elsewhere,6,2023,7,Friday,0.0,Neutral
+959,717,257,"The customer service was fantastic, and the product arrived on time.",2023-07-11,customer service fantastic product arrived time,6,2023,7,Tuesday,0.4,Positive
+960,340,272,The best product I've used in a long time. Kudos to the team!,2024-02-01,best product used long time kudos team,7,2024,2,Thursday,0.475,Positive
+961,497,295,Very sleek design and works just as advertised. Love it!,2024-03-21,sleek design works advertised love,5,2024,3,Thursday,0.5,Positive
+962,148,274,The quality is outstanding. I'm extremely impressed.,2023-12-27,quality outstanding extremely impressed,4,2023,12,Wednesday,0.75,Positive
+963,419,256,"I was expecting something better, but this product is just average.",2024-01-08,expecting something better product average,5,2024,1,Monday,0.175,Positive
+964,170,251,I'm frustrated with this product. It's not what I hoped for at all.,2023-09-26,frustrated product not hoped,4,2023,9,Tuesday,-0.7,Negative
+965,525,203,It's easy to use and super efficient. I'm so glad I bought it.,2024-03-28,easy use super efficient glad bought,6,2024,3,Thursday,0.4222222222222222,Positive
+966,954,267,This product has exceeded all my expectations. Very satisfied.,2024-05-29,product exceeded expectations satisfied,4,2024,5,Wednesday,0.5,Positive
+967,360,256,"The product works, but I've had better experiences with similar products.",2024-01-06,product works better experiences similar products,6,2024,1,Saturday,0.25,Positive
+968,959,233,Great performance and easy to use. I'm very satisfied with this product.,2024-05-11,great performance easy use satisfied product,6,2024,5,Saturday,0.5777777777777778,Positive
+969,596,257,This product is cheaply made and didn't meet my expectations at all.,2024-05-07,product cheaply made not meet expectations,6,2024,5,Tuesday,0.4,Positive
+970,642,219,I regret buying this. The product is ineffective and badly made.,2023-12-09,regret buying product ineffective badly made,6,2023,12,Saturday,-0.6999999999999998,Negative
+971,693,242,Everything about this product is great! It works as advertised and more.,2023-10-20,everything product great works advertised,5,2023,10,Friday,0.8,Positive
+972,392,250,"Fantastic quality, and the performance is just amazing. Highly recommend!",2023-07-08,fantastic quality performance amazing highly recommend,6,2023,7,Saturday,0.38666666666666666,Positive
+973,961,256,Terrible experience. The product doesn't perform well at all.,2024-06-02,terrible experience product not perform well,6,2024,6,Sunday,-1.0,Negative
+974,501,267,"Excellent quality, great design, and super easy to use.",2023-12-30,excellent quality great design super easy use,7,2023,12,Saturday,0.6416666666666666,Positive
+975,402,246,It's neither great nor terrible. It's just okay.,2024-03-22,neither great terrible okay,4,2024,3,Friday,0.10000000000000002,Positive
+976,582,249,Such a fantastic product at a great price. Worth every cent!,2024-03-21,fantastic product great price worth every cent,7,2024,3,Thursday,0.5000000000000001,Positive
+977,702,221,I can't believe I wasted my money on this. It's not worth it.,2023-06-28,cannot believe wasted money not worth,6,2023,6,Wednesday,-0.175,Negative
+978,950,250,Perfect product for my needs! I can't imagine using anything else now.,2023-08-22,perfect product needs cannot imagine using anything else,8,2023,8,Tuesday,1.0,Positive
+979,759,276,"I've used it a few times and it works, but it's not impressive.",2023-07-23,used times works not impressive,5,2023,7,Sunday,-0.5,Negative
+980,214,248,Works perfectly! Totally exceeded my expectations in terms of performance.,2024-05-12,works perfectly totally exceeded expectations terms performance,7,2024,5,Sunday,0.0,Neutral
+981,362,273,It's neither great nor terrible. It's just okay.,2023-11-30,neither great terrible okay,4,2023,11,Thursday,0.10000000000000002,Positive
+982,355,213,"The quality is fine, but I've seen better products at this price.",2024-06-03,quality fine seen better products price,6,2024,6,Monday,0.45833333333333337,Positive
+983,289,257,I've never been this satisfied with a purchase before.,2024-03-29,never satisfied purchase,3,2024,3,Friday,-0.25,Negative
+984,920,201,I've been using it for a while now and it's performing perfectly.,2024-02-02,using performing perfectly,3,2024,2,Friday,1.0,Positive
+985,189,271,Wonderful product! The quality and performance are unmatched.,2024-01-23,wonderful product quality performance unmatched,5,2024,1,Tuesday,1.0,Positive
+986,773,219,Absolutely love this product! It's a game-changer.,2024-01-29,absolutely love product game changer,5,2024,1,Monday,0.04999999999999999,Neutral
+987,528,215,"The product is awful. It doesn't work as it should, and it's frustrating to use.",2023-12-01,product awful not work frustrating use,6,2023,12,Friday,-0.7,Negative
+988,868,253,Great performance and easy to use. I'm very satisfied with this product.,2024-01-31,great performance easy use satisfied product,6,2024,1,Wednesday,0.5777777777777778,Positive
+989,649,283,"It's an okay product, but there are some issues I have with it.",2024-04-30,okay product issues,3,2024,4,Tuesday,0.5,Positive
+990,460,233,This product has exceeded all my expectations. I'm thrilled with it.,2023-10-05,product exceeded expectations thrilled,4,2023,10,Thursday,0.6,Positive
+991,989,203,This has been one of the best purchases I've made. Highly recommended!,2023-11-23,one best purchases made highly recommended,6,2023,11,Thursday,0.58,Positive
+992,409,254,Perfect fit for my needs. Will definitely order again.,2024-05-23,perfect fit needs definitely order,5,2024,5,Thursday,0.4666666666666666,Positive
+993,111,226,This has been one of the best purchases I've made. Highly recommended!,2023-08-24,one best purchases made highly recommended,6,2023,8,Thursday,0.58,Positive
+994,695,292,"It broke within a few days of use, and customer service didn't help at all.",2023-11-03,broke within days use customer service not help,8,2023,11,Friday,0.0,Neutral
+995,814,236,It's sufficient for basic needs but could be better.,2023-07-20,sufficient basic needs could better,5,2023,7,Thursday,0.25,Positive
+996,811,200,Excellent quality and fast shipping. Very happy with it.,2024-04-08,excellent quality fast shipping happy,5,2024,4,Monday,0.6666666666666666,Positive
+997,667,251,This has made my life so much easier. I highly recommend it!,2023-09-06,made life much easier highly recommend,6,2023,9,Wednesday,0.18,Positive
+998,313,238,Everything about this product is perfect. So happy with it!,2023-09-30,everything product perfect happy,4,2023,9,Saturday,0.9,Positive
+999,879,242,"I have mixed feelings. It's fine, but I was expecting a bit more.",2024-03-02,mixed feelings fine expecting bit,5,2024,3,Saturday,0.20833333333333334,Positive
+1000,193,292,"It does its job, but I wouldn't say it's a standout product.",2023-11-23,job would not say standout product,6,2023,11,Thursday,0.0,Neutral
